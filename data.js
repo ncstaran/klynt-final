@@ -40,7 +40,7 @@ klynt.data = {
     },
     "miniPlayer": {
         "thanksForWatchingWording": "Thanks for watching!",
-        "launchAppWording": "Then Launch Project",
+        "resumePlaybackWording": "Resume playback?",
         "fullscreenInfoWording": "This program will launch in fullscreen",
         "yesWording": "Yes",
         "title": "site",
@@ -48,114 +48,115 @@ klynt.data = {
         "noWording": "No",
         "analyticsKey": "",
         "downloadAppWording": "Download App",
-        "resumePlaybackWording": "Resume playback?",
+        "launchAppWording": "Then Launch Project",
         "url": "",
         "redirectToMobileApp": "auto",
         "description": ""
     },
     "aliases": {
-        "idToAlias": {
-            "66677701-2361-B2C1-C7B8-8BDB130CFA81": "cris_3",
-            "7B55A996-687A-7394-DA19-4896307F3E29": "libro_6",
-            "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754": "contact",
-            "4D997339-8200-FCBD-EFEA-47C734515197": "side_menu",
-            "E176E103-59C3-D529-997C-48963CD063DA": "libro_5",
-            "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1": "rago4",
-            "6F44C739-CA1F-902C-F125-8BBA0AF069FC": "rago2",
-            "D606CE06-B07E-4ACA-A771-8BE7F7A7C87F": "pass_cris",
-            "C47E5444-6DED-850C-E561-48D9B63EA851": "libro_7",
-            "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15": "libro_9",
-            "06FDF404-8392-8B5D-02A5-8C5599E2EFD3": "scum4",
-            "45683511-65EC-E2CC-1CEA-8BC5A4FE801B": "pass_rago",
-            "D8899CFE-9F65-FA24-7284-8BBA0FFA6B7D": "rago3",
-            "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63": "cris_7",
-            "871E8644-E985-4D54-0DC1-8BCD64608EA5": "filastrocca_5",
-            "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4": "rago",
-            "EB5CFA9C-43E8-63C2-78BE-438AACE76916": "Home",
-            "F93F6391-EBF8-8862-DF24-4896231AAB3B": "libro_4",
-            "9CD26701-06BA-EF85-DC35-8BCD5A550C33": "filastrocca_3",
-            "86E601AE-425F-4F7F-704E-95BF03D05DE7": "ABOUT_US",
-            "34F97018-87B0-F5C9-9939-48D9D265877F": "libro_8",
-            "C6A56CB5-EC1E-FEBC-58AC-483767012B1C": "password_libro",
-            "B87A9EBD-DA4E-E1FC-5B64-8BDB18E8A2BD": "cris_5",
-            "1705EC52-A475-5E29-57BC-8C55971B5B88": "scum3",
-            "47AEA548-4525-5F2A-8DA0-8C79600D2B62": "pass_scum",
-            "2B7ACE01-5145-5614-48C5-4800C32EB005": "pass_filastrocca",
-            "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA": "cristiana",
-            "2A804658-B99C-9281-5E6F-905A7FBC7E07": "bomb_pass!",
-            "D2E5F960-15ED-0ACF-430C-8BBA06043299": "rago5",
-            "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6": "cris_2",
-            "15A25693-157D-D1AA-2998-8BCD56B2AED9": "filastrocca",
-            "815E0BC0-0F28-92DE-731D-487354FFEA40": "pdf_libro",
-            "36E3789A-C5A7-1477-39E6-8C5568338A90": "scum1",
-            "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24": "cris_8",
-            "59BD6F4D-C29F-17DE-57AB-4896351CA517": "libro_3",
-            "6283401B-0F8F-3D7D-1935-8BDB1622C13A": "cris_4",
-            "0518DD68-2E72-EC9E-FE04-48961971D4C2": "libro_2",
-            "10F7169D-7622-F311-CC9B-8C898432F0FA": "rago0",
-            "14C340A3-90B1-933C-4714-9BB7EC6E944B": "cris_0",
-            "56AA51B4-07BB-170A-F7A3-8BDB09790F79": "cris_6",
-            "F5D6208C-9D87-45B7-3ECE-9BC019E8BC95": "Filastrocca_0",
-            "4E385C63-C2A9-00E4-C397-8C559459A747": "scum2",
-            "182A6CCD-D69D-CF06-67F0-8BEEDFD0E947": "scum",
-            "84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572": "libro_0",
-            "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040": "filastrocca_2",
-            "F275D161-C4D5-71DC-EB38-8BCD60DC19E5": "filastrocca_4"
-        },
         "aliasToId": {
-            "cris_4": "6283401B-0F8F-3D7D-1935-8BDB1622C13A",
-            "pass_rago": "45683511-65EC-E2CC-1CEA-8BC5A4FE801B",
-            "filastrocca_5": "871E8644-E985-4D54-0DC1-8BCD64608EA5",
-            "scum": "182A6CCD-D69D-CF06-67F0-8BEEDFD0E947",
-            "rago3": "D8899CFE-9F65-FA24-7284-8BBA0FFA6B7D",
-            "cris_0": "14C340A3-90B1-933C-4714-9BB7EC6E944B",
             "cris_5": "B87A9EBD-DA4E-E1FC-5B64-8BDB18E8A2BD",
-            "libro_6": "7B55A996-687A-7394-DA19-4896307F3E29",
-            "scum3": "1705EC52-A475-5E29-57BC-8C55971B5B88",
-            "rago2": "6F44C739-CA1F-902C-F125-8BBA0AF069FC",
             "ABOUT_US": "86E601AE-425F-4F7F-704E-95BF03D05DE7",
-            "libro_7": "C47E5444-6DED-850C-E561-48D9B63EA851",
-            "Filastrocca_0": "F5D6208C-9D87-45B7-3ECE-9BC019E8BC95",
-            "password_libro": "C6A56CB5-EC1E-FEBC-58AC-483767012B1C",
-            "filastrocca": "15A25693-157D-D1AA-2998-8BCD56B2AED9",
-            "libro_0": "84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572",
-            "rago0": "10F7169D-7622-F311-CC9B-8C898432F0FA",
-            "rago5": "D2E5F960-15ED-0ACF-430C-8BBA06043299",
-            "pass_cris": "D606CE06-B07E-4ACA-A771-8BE7F7A7C87F",
-            "cris_2": "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6",
-            "filastrocca_4": "F275D161-C4D5-71DC-EB38-8BCD60DC19E5",
-            "libro_9": "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15",
-            "contact": "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754",
-            "libro_3": "59BD6F4D-C29F-17DE-57AB-4896351CA517",
-            "bomb_pass!": "2A804658-B99C-9281-5E6F-905A7FBC7E07",
-            "cris_7": "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63",
-            "cris_6": "56AA51B4-07BB-170A-F7A3-8BDB09790F79",
-            "scum1": "36E3789A-C5A7-1477-39E6-8C5568338A90",
-            "cristiana": "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA",
-            "libro_5": "E176E103-59C3-D529-997C-48963CD063DA",
-            "libro_2": "0518DD68-2E72-EC9E-FE04-48961971D4C2",
-            "side_menu": "4D997339-8200-FCBD-EFEA-47C734515197",
-            "pass_filastrocca": "2B7ACE01-5145-5614-48C5-4800C32EB005",
-            "pass_scum": "47AEA548-4525-5F2A-8DA0-8C79600D2B62",
-            "scum4": "06FDF404-8392-8B5D-02A5-8C5599E2EFD3",
-            "filastrocca_2": "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040",
-            "rago4": "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1",
-            "libro_4": "F93F6391-EBF8-8862-DF24-4896231AAB3B",
-            "scum2": "4E385C63-C2A9-00E4-C397-8C559459A747",
-            "libro_8": "34F97018-87B0-F5C9-9939-48D9D265877F",
-            "Home": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+            "rago2": "6F44C739-CA1F-902C-F125-8BBA0AF069FC",
             "rago": "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4",
+            "filastrocca_5": "871E8644-E985-4D54-0DC1-8BCD64608EA5",
+            "filastrocca_4": "F275D161-C4D5-71DC-EB38-8BCD60DC19E5",
+            "cris_4": "6283401B-0F8F-3D7D-1935-8BDB1622C13A",
+            "rago3": "D8899CFE-9F65-FA24-7284-8BBA0FFA6B7D",
+            "pdf_libro": "815E0BC0-0F28-92DE-731D-487354FFEA40",
+            "rago4": "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1",
+            "scum2": "4E385C63-C2A9-00E4-C397-8C559459A747",
+            "scum4": "06FDF404-8392-8B5D-02A5-8C5599E2EFD3",
+            "libro_6": "7B55A996-687A-7394-DA19-4896307F3E29",
             "filastrocca_3": "9CD26701-06BA-EF85-DC35-8BCD5A550C33",
             "cris_3": "66677701-2361-B2C1-C7B8-8BDB130CFA81",
-            "pdf_libro": "815E0BC0-0F28-92DE-731D-487354FFEA40",
-            "cris_8": "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24"
+            "cris_8": "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24",
+            "Home": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+            "libro_0": "84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572",
+            "libro_4": "F93F6391-EBF8-8862-DF24-4896231AAB3B",
+            "scum3": "1705EC52-A475-5E29-57BC-8C55971B5B88",
+            "pass_filastrocca": "2B7ACE01-5145-5614-48C5-4800C32EB005",
+            "contact": "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754",
+            "pass_cris": "D606CE06-B07E-4ACA-A771-8BE7F7A7C87F",
+            "cris_2": "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6",
+            "scum": "182A6CCD-D69D-CF06-67F0-8BEEDFD0E947",
+            "cristiana": "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA",
+            "scum1": "36E3789A-C5A7-1477-39E6-8C5568338A90",
+            "libro_5": "E176E103-59C3-D529-997C-48963CD063DA",
+            "cris_7": "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63",
+            "rago0": "10F7169D-7622-F311-CC9B-8C898432F0FA",
+            "pass_rago": "45683511-65EC-E2CC-1CEA-8BC5A4FE801B",
+            "rago5": "D2E5F960-15ED-0ACF-430C-8BBA06043299",
+            "libro_7": "C47E5444-6DED-850C-E561-48D9B63EA851",
+            "libro_2": "0518DD68-2E72-EC9E-FE04-48961971D4C2",
+            "cris_0": "14C340A3-90B1-933C-4714-9BB7EC6E944B",
+            "password_libro": "C6A56CB5-EC1E-FEBC-58AC-483767012B1C",
+            "bomb_pass!": "2A804658-B99C-9281-5E6F-905A7FBC7E07",
+            "filastrocca": "15A25693-157D-D1AA-2998-8BCD56B2AED9",
+            "libro_9": "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15",
+            "Filastrocca_0": "F5D6208C-9D87-45B7-3ECE-9BC019E8BC95",
+            "pass_scum": "47AEA548-4525-5F2A-8DA0-8C79600D2B62",
+            "libro_3": "59BD6F4D-C29F-17DE-57AB-4896351CA517",
+            "libro_8": "34F97018-87B0-F5C9-9939-48D9D265877F",
+            "side_menu": "4D997339-8200-FCBD-EFEA-47C734515197",
+            "cris_6": "56AA51B4-07BB-170A-F7A3-8BDB09790F79",
+            "filastrocca_2": "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040"
+        },
+        "idToAlias": {
+            "36E3789A-C5A7-1477-39E6-8C5568338A90": "scum1",
+            "9CD26701-06BA-EF85-DC35-8BCD5A550C33": "filastrocca_3",
+            "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA": "cristiana",
+            "1705EC52-A475-5E29-57BC-8C55971B5B88": "scum3",
+            "56AA51B4-07BB-170A-F7A3-8BDB09790F79": "cris_6",
+            "E176E103-59C3-D529-997C-48963CD063DA": "libro_5",
+            "10F7169D-7622-F311-CC9B-8C898432F0FA": "rago0",
+            "4D997339-8200-FCBD-EFEA-47C734515197": "side_menu",
+            "D2E5F960-15ED-0ACF-430C-8BBA06043299": "rago5",
+            "0518DD68-2E72-EC9E-FE04-48961971D4C2": "libro_2",
+            "C6A56CB5-EC1E-FEBC-58AC-483767012B1C": "password_libro",
+            "15A25693-157D-D1AA-2998-8BCD56B2AED9": "filastrocca",
+            "47AEA548-4525-5F2A-8DA0-8C79600D2B62": "pass_scum",
+            "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6": "cris_2",
+            "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040": "filastrocca_2",
+            "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754": "contact",
+            "6F44C739-CA1F-902C-F125-8BBA0AF069FC": "rago2",
+            "871E8644-E985-4D54-0DC1-8BCD64608EA5": "filastrocca_5",
+            "D8899CFE-9F65-FA24-7284-8BBA0FFA6B7D": "rago3",
+            "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1": "rago4",
+            "7B55A996-687A-7394-DA19-4896307F3E29": "libro_6",
+            "66677701-2361-B2C1-C7B8-8BDB130CFA81": "cris_3",
+            "84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572": "libro_0",
+            "F93F6391-EBF8-8862-DF24-4896231AAB3B": "libro_4",
+            "B87A9EBD-DA4E-E1FC-5B64-8BDB18E8A2BD": "cris_5",
+            "D606CE06-B07E-4ACA-A771-8BE7F7A7C87F": "pass_cris",
+            "182A6CCD-D69D-CF06-67F0-8BEEDFD0E947": "scum",
+            "34F97018-87B0-F5C9-9939-48D9D265877F": "libro_8",
+            "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63": "cris_7",
+            "45683511-65EC-E2CC-1CEA-8BC5A4FE801B": "pass_rago",
+            "2B7ACE01-5145-5614-48C5-4800C32EB005": "pass_filastrocca",
+            "14C340A3-90B1-933C-4714-9BB7EC6E944B": "cris_0",
+            "2A804658-B99C-9281-5E6F-905A7FBC7E07": "bomb_pass!",
+            "F5D6208C-9D87-45B7-3ECE-9BC019E8BC95": "Filastrocca_0",
+            "59BD6F4D-C29F-17DE-57AB-4896351CA517": "libro_3",
+            "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4": "rago",
+            "C47E5444-6DED-850C-E561-48D9B63EA851": "libro_7",
+            "86E601AE-425F-4F7F-704E-95BF03D05DE7": "ABOUT_US",
+            "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15": "libro_9",
+            "06FDF404-8392-8B5D-02A5-8C5599E2EFD3": "scum4",
+            "F275D161-C4D5-71DC-EB38-8BCD60DC19E5": "filastrocca_4",
+            "4E385C63-C2A9-00E4-C397-8C559459A747": "scum2",
+            "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24": "cris_8",
+            "6283401B-0F8F-3D7D-1935-8BDB1622C13A": "cris_4",
+            "815E0BC0-0F28-92DE-731D-487354FFEA40": "pdf_libro",
+            "EB5CFA9C-43E8-63C2-78BE-438AACE76916": "Home"
         }
     },
     "share": {
+        "displayMiniPlayerWording": true,
         "enableLinkedIn": true,
         "thumbnail": null,
         "enableTumblr": true,
-        "displayMiniPlayerWording": true,
+        "link": null,
         "customSizeWording": "Custom",
         "playerWording": "Player",
         "miniPlayerWording": "Mini player",
@@ -167,40 +168,35 @@ klynt.data = {
         "verticalWording": "Vertical",
         "socialNetworksWording": "Social Networks",
         "embedWording": "Embed",
-        "originalSizeWording": "Original",
         "title": "",
         "message": "",
-        "link": null,
+        "originalSizeWording": "Original",
         "enableGooglePlus": true
     },
     "watermark": {
-        "displayOnStartSequence": true,
+        "enabled": false,
         "position": "top-left",
         "image": "Player/css/editor/img/watermark.png",
-        "enabled": false,
+        "displayOnStartSequence": true,
         "action": {
             "type": "openSequence",
             "target": "null"
         }
     },
     "sequences": {
-        "66677701-2361-B2C1-C7B8-8BDB130CFA81": {
+        "36E3789A-C5A7-1477-39E6-8C5568338A90": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/3__3_.png.png",
+            "thumbnail": "Medias/Thumbnails/IMG_1__1_.PNG.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "cris 3",
+            "title": "scum1",
             "images": [
                 {
-                    "dataend": "01:00.88",
+                    "dataend": "01:00.93",
                     "zIndex": 0,
-                    "id": "1464A41C-693B-58AB-D01B-8BE52C4D8895",
-                    "name": "3__3_.png",
+                    "id": "57139DFF-F90E-DF7D-FF68-8C5641954D32",
+                    "name": "IMG_1__1_.PNG",
                     "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "transitionOut": {
                         "type": "fade",
                         "duration": "1"
                     },
@@ -208,30 +204,26 @@ klynt.data = {
                     "mediaWidth": 1080,
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
-                    "src": "Medias/Photos/3__3_.png",
-                    "duration": "01:00.88",
+                    "src": "Medias/Photos/IMG_1__1_.PNG",
+                    "duration": "01:00.93",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": -347.5,
+            "x": 229.53333333333333,
             "size": "small",
-            "y": 762.15,
+            "y": 775.1,
             "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.880381111162016,
+            "duration": 59.929828164102695,
             "color": "rgba(0,0,0,1)",
-            "id": "66677701-2361-B2C1-C7B8-8BDB130CFA81",
+            "id": "36E3789A-C5A7-1477-39E6-8C5568338A90",
             "buttons": [
                 {
                     "centerY": "0.00",
                     "right": "16.00",
-                    "dataend": "01:00.88",
+                    "dataend": "01:00.93",
                     "type": "klynt-arrow-right",
                     "zIndex": 1,
                     "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "transitionOut": {
                         "type": "fade",
                         "duration": "1"
                     },
@@ -239,8 +231,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "FEA8F61A-542F-F9B5-A909-8BE5C18EB016",
-                        "targetSequence": "6283401B-0F8F-3D7D-1935-8BDB1622C13A",
+                        "id": "F40E6BF6-8761-E982-3643-8C59D005D833",
+                        "targetSequence": "4E385C63-C2A9-00E4-C397-8C559459A747",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideLeft",
@@ -254,24 +246,55 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "01:00.88",
+                    "duration": "01:00.93",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "BD2E031F-14A6-69BB-4B74-8BE57211A988",
+                    "id": "58325894-6F92-DECF-409E-8C5679B86B05",
                     "databegin": "00:00.00"
-                },
+                }
+            ]
+        },
+        "9CD26701-06BA-EF85-DC35-8BCD5A550C33": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/3__2_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "filastrocca 3",
+            "images": [
                 {
-                    "centerY": "0.00",
-                    "dataend": "01:00.88",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
+                    "dataend": "01:00.98",
+                    "zIndex": 0,
+                    "id": "720DE8A6-3148-B088-7057-8BD2080FFA83",
+                    "name": "3__2_.png",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "transitionOut": {
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/3__2_.png",
+                    "duration": "01:00.98",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -253.1,
+            "size": "small",
+            "y": 345.15,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.97927521704337,
+            "color": "rgba(0,0,0,1)",
+            "id": "9CD26701-06BA-EF85-DC35-8BCD5A550C33",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:00.98",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 1,
+                    "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
@@ -279,8 +302,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "433C7ED3-83FE-2034-47CE-8BE5D9771F3C",
-                        "targetSequence": "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6",
+                        "id": "928DF427-9DDC-6F90-4CA7-8BD2A5A854B4",
+                        "targetSequence": "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideRight",
@@ -294,27 +317,63 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "01:00.88",
+                    "duration": "01:00.98",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "FBFDD633-C714-8569-4C46-8BE565A4D109",
+                    "id": "68C50671-ACBF-C753-2F18-8BD23689DC59",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:00.98",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "E40B9522-631F-1824-EE27-8BD293E082BA",
+                        "targetSequence": "F275D161-C4D5-71DC-EB38-8BCD60DC19E5",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.98",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "8B662FE4-868B-E2AE-6495-8BD26C672164",
                     "databegin": "00:00.00"
                 }
             ]
         },
-        "7B55A996-687A-7394-DA19-4896307F3E29": {
+        "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/6.png.png",
+            "thumbnail": "Medias/Thumbnails/1__3_.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "libro 6",
+            "title": "cristiana",
             "images": [
                 {
                     "dataend": "01:01.00",
                     "zIndex": 0,
-                    "id": "4EF6C7C0-B6EB-5BC9-43DC-48D8EDBFA4E7",
-                    "name": "6.png",
+                    "id": "360715EF-8F88-FB40-AB5B-8BE751D5E74B",
+                    "name": "1__3_.png",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -323,21 +382,21 @@ klynt.data = {
                     "mediaWidth": 1080,
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
-                    "src": "Medias/Photos/6.png",
+                    "src": "Medias/Photos/1__3_.png",
                     "duration": "01:01.00",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 1136.8,
+            "x": -285.2166666666667,
             "size": "small",
-            "y": 238.6,
+            "y": 708.35,
             "backgroundColor": "rgba(0,0,0,0.75)",
             "duration": 60,
             "color": "rgba(0,0,0,1)",
-            "id": "7B55A996-687A-7394-DA19-4896307F3E29",
+            "id": "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA",
             "buttons": [
                 {
-                    "centerY": "0.00",
+                    "centerY": "1.00",
                     "right": "16.00",
                     "dataend": "01:01.00",
                     "type": "klynt-arrow-right",
@@ -350,8 +409,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "52B5E6A4-4826-B42D-612D-48E61A0F4E77",
-                        "targetSequence": "C47E5444-6DED-850C-E561-48D9B63EA851",
+                        "id": "EBBC51DE-21C4-2072-EDFF-8BE7B96E60BC",
+                        "targetSequence": "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideLeft",
@@ -369,15 +428,50 @@ klynt.data = {
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "05AF1B29-8954-92BA-BB9D-48D93277F637",
+                    "id": "2ABB0022-B298-3964-3DAE-8BE79BAB11CC",
                     "databegin": "00:00.00"
-                },
+                }
+            ]
+        },
+        "1705EC52-A475-5E29-57BC-8C55971B5B88": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/IMG_3__1_.PNG.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "scum3",
+            "images": [
+                {
+                    "dataend": "01:01.08",
+                    "zIndex": 0,
+                    "id": "94CE821E-1B0D-A073-8B49-8C5BB6B3D4F6",
+                    "name": "IMG_3__1_.PNG",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/IMG_3__1_.PNG",
+                    "duration": "01:01.08",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 248.03333333333333,
+            "size": "small",
+            "y": 892.4,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60.07816932292473,
+            "color": "rgba(0,0,0,1)",
+            "id": "1705EC52-A475-5E29-57BC-8C55971B5B88",
+            "buttons": [
                 {
                     "centerY": "0.00",
-                    "dataend": "01:01.00",
+                    "dataend": "01:01.08",
                     "left": "16.00",
                     "type": "klynt-arrow-left",
-                    "zIndex": 2,
+                    "zIndex": 1,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -386,8 +480,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "429B819E-0AEF-AF1E-78AA-48D990FD9470",
-                        "targetSequence": "E176E103-59C3-D529-997C-48963CD063DA",
+                        "id": "9E85CFD5-6241-FE93-B61D-8C5C3CEBE0C9",
+                        "targetSequence": "4E385C63-C2A9-00E4-C397-8C559459A747",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideRight",
@@ -401,38 +495,353 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "01:01.00",
+                    "duration": "01:01.08",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "A8BB7466-F250-A13E-BB9A-48D958AD6E29",
+                    "id": "A29FEBAB-E8CD-F7DF-BF5D-8C5BE93D5985",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:01.08",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "FAF5557A-4A60-E522-02C3-8C5C610B2EEE",
+                        "targetSequence": "06FDF404-8392-8B5D-02A5-8C5599E2EFD3",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.08",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "775B2171-BC3E-3EB1-F1A8-8C5BFA634867",
                     "databegin": "00:00.00"
                 }
             ]
         },
-        "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754": {
+        "56AA51B4-07BB-170A-F7A3-8BDB09790F79": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/close_but.png.png",
+            "thumbnail": "Medias/Thumbnails/6__1_.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "contact",
+            "title": "cris 6",
             "images": [
                 {
-                    "centerY": "-112.56",
-                    "verticalAlign": "middle",
-                    "dataend": "01:00.05",
-                    "src": "Medias/Photos/close_but.png",
+                    "dataend": "01:00.98",
+                    "zIndex": 0,
+                    "id": "9FA41B63-D601-1FFE-C3C3-8BE0E7B9B964",
+                    "name": "6__1_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/6__1_.png",
+                    "duration": "01:00.98",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -411.85,
+            "size": "small",
+            "y": 789.4,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.97927521704337,
+            "color": "rgba(0,0,0,1)",
+            "id": "56AA51B4-07BB-170A-F7A3-8BDB09790F79",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:00.98",
+                    "type": "klynt-arrow-right",
                     "zIndex": 1,
-                    "id": "2DE2AC68-0C55-6E9D-9927-9AC2D7A25199",
-                    "mediaHeight": 240,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "47DD764C-A74C-1C69-9A6E-8BE1C912B74A",
+                        "targetSequence": "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.98",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "D0F63574-C770-54BC-F585-8BE13CA5B5E9",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:00.98",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "D510AA3E-E948-13D5-EA00-8BE1B41B94D9",
+                        "targetSequence": "B87A9EBD-DA4E-E1FC-5B64-8BDB18E8A2BD",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.98",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "0EA2A712-9F52-2DF0-5F22-8BE191C4F533",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "E176E103-59C3-D529-997C-48963CD063DA": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/5.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "libro 5",
+            "images": [
+                {
+                    "dataend": "01:00.83",
+                    "zIndex": 0,
+                    "id": "D74FC473-899D-3860-D0DA-48D7E78C3F6D",
+                    "name": "5.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/5.png",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "F93F6391-EBF8-8862-DF24-4896231AAB3B",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "96478964-02E0-AE65-77AA-48D895039872",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "duration": "01:00.83",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1130.65,
+            "size": "small",
+            "y": 206.1,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.83093405822134,
+            "color": "rgba(0,0,0,1)",
+            "id": "E176E103-59C3-D529-997C-48963CD063DA",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:00.83",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "7834F579-C641-FA56-22A9-48E05A3D4F0D",
+                        "targetSequence": "F93F6391-EBF8-8862-DF24-4896231AAB3B",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.83",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "38DC41DA-3394-080B-151E-48D8690FDB64",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:00.83",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "9F06E2F0-8FA9-259A-2BCD-48DF66167E48",
+                        "targetSequence": "7B55A996-687A-7394-DA19-4896307F3E29",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.83",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "525B6A7B-4BFB-CFA9-61EE-48D82D8C9480",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "10F7169D-7622-F311-CC9B-8C898432F0FA": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/web-browser-mockup-ready-for-a-content-vector-17683450.jpg.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "rago0",
+            "images": [
+                {
+                    "mediaHeight": 1080,
+                    "dataend": "01:00.19",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "duration": "01:00.19",
+                    "name": "rago.jpg",
+                    "fitToWindow": true,
+                    "src": "Medias/Photos/rago.jpg",
+                    "scaleMode": "letterbox",
+                    "id": "2AA81720-347D-123A-4587-9B5AC05F4026",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.80",
+                    "dataend": "01:03.18",
+                    "src": "Medias/Photos/gray.jpg",
+                    "zIndex": 2,
+                    "id": "D986F316-27EB-24EA-1E1A-9B5CF884A5D4",
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 94,
+                    "scales": true,
+                    "duration": "01:03.18",
+                    "centerX": "-238.78",
+                    "width": "45.78",
+                    "height": "498.04",
+                    "style": {
+                        "rotation": -90.06561301264
+                    },
+                    "name": "gray.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.80",
+                    "dataend": "01:03.06",
+                    "src": "Medias/Photos/gray.jpg",
+                    "zIndex": 3,
+                    "id": "26E94431-F04C-186B-CED1-9B5CF88487EC",
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 94,
+                    "scales": true,
+                    "duration": "01:03.06",
+                    "centerX": "238.37",
+                    "width": "45.78",
+                    "height": "498.04",
+                    "style": {
+                        "rotation": -90.06561301264
+                    },
+                    "name": "gray.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.49",
+                    "verticalAlign": "middle",
+                    "dataend": "01:00.19",
+                    "src": "Medias/Photos/logo_2.png",
+                    "zIndex": 4,
+                    "id": "423613E1-6030-3D27-FF78-9B5CF884C9D1",
+                    "mediaHeight": 916,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
-                    "mediaWidth": 240,
+                    "mediaWidth": 1107,
                     "scales": true,
-                    "duration": "01:00.05",
-                    "centerX": "311.70",
-                    "width": "34.03",
-                    "height": "34.03",
+                    "duration": "01:00.19",
+                    "centerX": "-456.38",
+                    "width": "45.01",
+                    "height": "37.25",
                     "link": {
                         "hideInMindmap": false,
                         "controlDY": 0,
@@ -442,48 +851,255 @@ klynt.data = {
                         "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
                         "linkType": "linkToSequence",
                         "transition": "fade",
-                        "id": "FE782CE9-B7C8-3E7B-50CC-9AC4A2446115",
+                        "id": "D3C373F7-363E-F77E-2064-9BCB16E5BB17",
                         "color": "rgba(0,0,0,1)"
                     },
-                    "name": "close_but.png",
+                    "name": "logo_2.png",
                     "databegin": "00:00.00"
-                }
-            ],
-            "x": 1019.2333333333333,
-            "size": "small",
-            "y": -264.75,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 58.79254594646708,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
+                },
                 {
-                    "centerY": "45.00",
-                    "dataend": "00:59.79",
-                    "type": "txt-Paragraph",
-                    "text": "<p style=\"padding-left: 30px; \">&nbsp;</p>\n<p style=\"padding-left: 30px; \">&nbsp;</p>\n<p style=\"padding-left: 30px; \"><span style=\"font-size: 13pt; font-family: Montserrat; \">Se hai domande o dubbi, non esitare a contattarci. Siamo qui per aiutarti! Puoi scriverci tramite email ai seguenti indirizzi:</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-family: Montserrat; font-size: 13pt;\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-family: Montserrat; font-size: 13pt;\"><span style=\"color: #eeeeee;\"><a href=\"https://mail.google.com/mail/u/vale.one@gmail.com/#compose\"><span style=\"color: #eeeeee;\">Evale.one@gmail.com</span></a></span><br /><span style=\"color: #eeeeee;\"><a href=\"https://mail.google.com/mail/u/Morellisilviaa@gmail.com/#compose\"><span style=\"color: #eeeeee;\">Morellisilviaa@gmail.com</span></a></span><br /></span></p>\n<p><span style=\"font-size: 13pt;\">&nbsp;</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-family: Montserrat; font-size: x-large;\"><span class=\"Apple-style-span\" style=\"font-size: 17px; line-height: 20px;\"><span style=\"font-size: 13pt; \">Saremo liete di rispondere alle tue richieste il prima possibile. Grazie per averci contattato!</span><br /><span style=\"font-size: 13pt; \">Eva e Silvia</span></span></span></p>\n<p>&nbsp;</p>",
-                    "name": "Text 2",
+                    "centerY": "-251.30",
+                    "verticalAlign": "middle",
+                    "dataend": "01:00.19",
+                    "src": "Medias/Photos/next.png",
+                    "zIndex": 9,
+                    "id": "CC623FE3-ACA7-209F-CB64-9B5CF87A601C",
+                    "mediaHeight": 512,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 512,
+                    "scales": true,
+                    "duration": "01:00.19",
+                    "centerX": "458.08",
+                    "width": "36.84",
+                    "height": "36.84",
+                    "name": "next.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-1.22",
+                    "dataend": "01:00.19",
+                    "src": "Medias/Photos/1__1_.png",
+                    "zIndex": 13,
+                    "id": "87870A66-ED67-A848-CCD0-8C8DF220A197",
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 1080,
+                    "scales": true,
+                    "duration": "01:00.19",
+                    "centerX": "-198.26",
+                    "width": "246.47",
+                    "height": "246.47",
+                    "name": "1__1_.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "162.53",
+                    "dataend": "01:00.19",
+                    "src": "Medias/Photos/digital_clock.png",
+                    "zIndex": 14,
+                    "id": "27F169A6-9E36-6DE0-898B-957D3686052A",
+                    "mediaHeight": 150,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "transitionOut": {
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 450,
+                    "scales": true,
+                    "duration": "01:00.19",
+                    "centerX": "195.48",
+                    "width": "173.09",
+                    "height": "57.68",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "53BF5688-866A-FA67-8114-957DB73AD341",
+                        "targetSequence": "2A804658-B99C-9281-5E6F-905A7FBC7E07",
+                        "closeButton": false,
+                        "automaticClose": false,
+                        "transition": "none",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "name": "digital_clock.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 107.48333333333336,
+            "size": "small",
+            "y": -224,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.18672017658774,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "-250.17",
+                    "dataend": "01:00.19",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
+                    "name": "Text 1",
+                    "zIndex": 5,
+                    "scales": true,
+                    "duration": "01:00.19",
+                    "centerX": "-417.24",
+                    "width": "31.70",
+                    "height": "65.16",
+                    "style": {
+                        "opacity": 0.6,
+                        "rotation": -0.624913061495752
+                    },
+                    "id": "09646AA9-38F6-51CF-34A1-9B5CF87AFA09",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-264.84",
+                    "dataend": "01:00.19",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
+                    "name": "Text 2",
+                    "zIndex": 7,
+                    "link": {
+                        "targetURL": "https://drive.google.com/file/d/1-AnR3DnN3pwiWp49PgThSqMST03K6cYi/view?usp=sharing",
+                        "linkType": "linkToURL",
+                        "id": "5D9403B4-E311-7CCE-CDCF-9B5CF87AD376",
+                        "window": "_blank"
+                    },
+                    "scales": true,
+                    "duration": "01:00.19",
+                    "centerX": "-369.52",
+                    "width": "93.52",
+                    "height": "66.73",
+                    "style": {
+                        "opacity": 0.9,
+                        "rotation": 0.11876919004907344
+                    },
+                    "id": "BAA64214-5460-8B9D-6033-9B5CF87A5406",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-250.86",
+                    "dataend": "01:00.19",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
+                    "name": "Text 2",
+                    "zIndex": 8,
+                    "scales": true,
+                    "duration": "01:00.19",
+                    "centerX": "-367.71",
+                    "width": "86.86",
+                    "height": "66.73",
+                    "style": {
+                        "opacity": 0.9,
+                        "rotation": -0.20106128413900912
+                    },
+                    "id": "2CC9ADCB-A9A9-522C-3635-9B5CF87A346B",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-228.01",
+                    "dataend": "01:00.19",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"font-family: Montserrat;\">Back to the Home</span></p>",
+                    "name": "Text 5",
+                    "zIndex": 10,
+                    "scales": true,
+                    "duration": "01:00.19",
+                    "centerX": "398.12",
+                    "width": "166.84",
+                    "height": "66.73",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "D5F7709C-50A0-EF82-8868-9B5CF87A486A",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "A86A288B-CF8C-C6EA-B049-9B5CF87ABCB9",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "165.72",
+                    "dataend": "01:00.19",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-size: 11pt; font-family: Montserrat; color: #111111;\">Mostra i Contenuti</span></p>",
+                    "name": "Text 6",
+                    "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "zIndex": 0,
+                    "zIndex": 11,
                     "scales": true,
-                    "duration": "00:59.75",
-                    "centerX": "0.00",
-                    "width": "630.00",
-                    "height": "323.00",
-                    "style": {
-                        "backgroundColor": "rgba(0,0,0,0.6)"
+                    "duration": "01:00.07",
+                    "centerX": "-186.34",
+                    "width": "163.66",
+                    "height": "66.73",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "2A1857AC-2A91-B0A0-3705-9B5D224F1BE9",
+                        "targetSequence": "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
                     },
-                    "id": "9B158112-AE21-FD6C-8F64-9B818EF4A2F3",
-                    "databegin": "00:00.04"
+                    "id": "AEE60813-82B5-B94C-096D-9B5CF87ACE9C",
+                    "databegin": "00:00.12"
+                },
+                {
+                    "right": "120.02",
+                    "dataend": "01:00.28",
+                    "left": "489.95",
+                    "type": "txt-Title-1",
+                    "text": "",
+                    "name": "Text 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 15,
+                    "top": "333.00",
+                    "scales": false,
+                    "duration": "01:00.28",
+                    "height": "106.00",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "2A804658-B99C-9281-5E6F-905A7FBC7E07",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "E86726E7-9262-5CA8-FEC8-9B5C518AA4A5",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "0EE269CB-2EBE-E539-D95B-9B5BBA39918C",
+                    "databegin": "00:00.00"
                 }
             ],
-            "id": "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754"
+            "id": "10F7169D-7622-F311-CC9B-8C898432F0FA"
         },
         "4D997339-8200-FCBD-EFEA-47C734515197": {
             "hideInMindmap": false,
@@ -653,9 +1269,9 @@ klynt.data = {
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 787.6833333333334,
+            "x": 918.5833333333334,
             "size": "small",
-            "y": 56.2,
+            "y": -2.899999999999995,
             "backgroundColor": "rgba(0,0,0,0)",
             "duration": 28.23426722912759,
             "color": "rgba(0,0,0,1)",
@@ -1050,18 +1666,18 @@ klynt.data = {
                 }
             ]
         },
-        "E176E103-59C3-D529-997C-48963CD063DA": {
+        "D2E5F960-15ED-0ACF-430C-8BBA06043299": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/5.png.png",
+            "thumbnail": "Medias/Thumbnails/5__1_.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "libro 5",
+            "title": "rago5",
             "images": [
                 {
-                    "dataend": "01:00.83",
-                    "zIndex": 0,
-                    "id": "D74FC473-899D-3860-D0DA-48D7E78C3F6D",
-                    "name": "5.png",
+                    "dataend": "01:01.00",
+                    "zIndex": 1,
+                    "id": "4C0CE667-0FDB-275F-7E62-8BBA825731D1",
+                    "name": "5__1_.png",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1070,117 +1686,260 @@ klynt.data = {
                     "mediaWidth": 1080,
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
-                    "src": "Medias/Photos/5.png",
+                    "src": "Medias/Photos/5__1_.png",
+                    "duration": "01:01.00",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 101.53333333333336,
+            "size": "small",
+            "y": -101.95,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60,
+            "color": "rgba(0,0,0,1)",
+            "id": "D2E5F960-15ED-0ACF-430C-8BBA06043299",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.00",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "223829FE-BF62-B2B9-B4F9-8BBB3DB5F3B7",
+                        "targetSequence": "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.00",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "06F779AF-C1FC-45CE-0890-8BBB00C76E91",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "0518DD68-2E72-EC9E-FE04-48961971D4C2": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/2.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "libro 2",
+            "images": [
+                {
+                    "dataend": "01:01.00",
+                    "zIndex": 0,
+                    "id": "B7EEEF41-1CBE-BF2E-D14F-4896CB80610D",
+                    "name": "2.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/2.png",
+                    "duration": "01:01.00",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1206.1,
+            "size": "small",
+            "y": 20.950000000000003,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60,
+            "color": "rgba(0,0,0,1)",
+            "id": "0518DD68-2E72-EC9E-FE04-48961971D4C2",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.00",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "FDE375C4-C61F-AF90-56E1-48E428467596",
+                        "targetSequence": "815E0BC0-0F28-92DE-731D-487354FFEA40",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.00",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "D02566D1-76C3-6F8A-7641-489EA90FAA9D",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:01.00",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "3B75DBE3-BE50-91A7-F791-489F25293EFC",
+                        "targetSequence": "59BD6F4D-C29F-17DE-57AB-4896351CA517",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.00",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "A569F63C-D4BF-A9CB-8EB3-489E9321A08F",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "C6A56CB5-EC1E-FEBC-58AC-483767012B1C": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/black.jpg.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "password libro",
+            "images": [
+                {
+                    "centerY": "18.77",
+                    "verticalAlign": "middle",
+                    "dataend": "01:00.98",
+                    "src": "Medias/Photos/black.jpg",
+                    "zIndex": 0,
+                    "id": "780C4384-8B6E-5B32-CF42-9A0236D55D52",
+                    "mediaHeight": 1080,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1024,
+                    "scales": true,
+                    "duration": "01:00.98",
+                    "centerX": "-0.00",
+                    "width": "532.00",
+                    "height": "269.00",
+                    "style": {
+                        "opacity": 0.7
+                    },
+                    "name": "black.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-109.53",
+                    "verticalAlign": "middle",
+                    "dataend": "01:00.98",
+                    "src": "Medias/Photos/close_but.png",
+                    "zIndex": 2,
+                    "id": "42A1ED89-F987-5814-CA1D-9A03788E2D90",
+                    "mediaHeight": 240,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 240,
+                    "scales": true,
+                    "duration": "01:00.98",
+                    "centerX": "264.62",
+                    "width": "33.41",
+                    "height": "33.41",
                     "link": {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
                         "automaticTransition": false,
                         "controlDX": 0,
-                        "targetSequence": "F93F6391-EBF8-8862-DF24-4896231AAB3B",
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
                         "linkType": "linkToSequence",
                         "transition": "fade",
-                        "id": "96478964-02E0-AE65-77AA-48D895039872",
+                        "id": "0FD71823-BFC5-3E82-C210-9A09B388AE24",
                         "color": "rgba(0,0,0,1)"
                     },
-                    "duration": "01:00.83",
+                    "name": "close_but.png",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 1130.65,
-            "size": "small",
-            "y": 206.1,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.83093405822134,
-            "color": "rgba(0,0,0,1)",
-            "id": "E176E103-59C3-D529-997C-48963CD063DA",
-            "buttons": [
+            "iframes": [
                 {
-                    "centerY": "0.00",
-                    "dataend": "01:00.83",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
+                    "centerY": "20.00",
+                    "dataend": "01:00.98",
+                    "scales": true,
+                    "duration": "01:00.98",
+                    "centerX": "0.00",
+                    "width": "334.00",
+                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"Artemisia Gentileschi\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572\");\r\t\t} else if (x==\"artemisia gentileschi\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
+                    "height": "101.00",
                     "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "7834F579-C641-FA56-22A9-48E05A3D4F0D",
-                        "targetSequence": "F93F6391-EBF8-8862-DF24-4896231AAB3B",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.83",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "38DC41DA-3394-080B-151E-48D8690FDB64",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:00.83",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "9F06E2F0-8FA9-259A-2BCD-48DF66167E48",
-                        "targetSequence": "7B55A996-687A-7394-DA19-4896307F3E29",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.83",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "525B6A7B-4BFB-CFA9-61EE-48D82D8C9480",
+                    "id": "ED2630A8-95FF-7D52-8B18-903AE4337C8A",
                     "databegin": "00:00.00"
                 }
-            ]
+            ],
+            "x": 835.3333333333334,
+            "size": "small",
+            "y": 160.4,
+            "backgroundColor": "rgba(0,0,0,0.65)",
+            "duration": 59.98,
+            "color": "rgba(0,0,0,1)",
+            "id": "C6A56CB5-EC1E-FEBC-58AC-483767012B1C"
         },
-        "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1": {
+        "15A25693-157D-D1AA-2998-8BCD56B2AED9": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/4__1_.png.png",
+            "thumbnail": "Medias/Thumbnails/1__2_.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "rago4",
+            "title": "filastrocca",
             "images": [
                 {
-                    "dataend": "00:31.00",
-                    "zIndex": 1,
-                    "id": "A4D8048B-1641-0F1E-484B-8BBD4A4287A4",
-                    "name": "4__1_.png",
+                    "dataend": "01:00.98",
+                    "zIndex": 0,
+                    "id": "CE072A12-A4D2-8C76-1627-8BD40E45ED50",
+                    "name": "1__2_.png",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1189,25 +1948,25 @@ klynt.data = {
                     "mediaWidth": 1080,
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
-                    "src": "Medias/Photos/4__1_.png",
-                    "duration": "00:31.00",
+                    "src": "Medias/Photos/1__2_.png",
+                    "duration": "01:00.98",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 132.53333333333336,
+            "x": -293.45,
             "size": "small",
-            "y": -81.75,
+            "y": 270.55,
             "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 30,
+            "duration": 59.97927521704337,
             "color": "rgba(0,0,0,1)",
-            "id": "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1",
+            "id": "15A25693-157D-D1AA-2998-8BCD56B2AED9",
             "buttons": [
                 {
                     "centerY": "0.00",
                     "right": "16.00",
-                    "dataend": "00:31.00",
+                    "dataend": "01:00.98",
                     "type": "klynt-arrow-right",
-                    "zIndex": 2,
+                    "zIndex": 1,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1216,8 +1975,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "0391D486-A040-8E5E-CB6F-8BC044A71539",
-                        "targetSequence": "D2E5F960-15ED-0ACF-430C-8BBA06043299",
+                        "id": "49829637-B060-699F-B468-8BD48D609581",
+                        "targetSequence": "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideLeft",
@@ -1231,19 +1990,137 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "00:31.00",
+                    "duration": "01:00.98",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "6AD78646-491C-9E17-D6B2-8BC01DEB88EE",
+                    "id": "AD1F09E0-CC40-8675-0E20-8BD46EFAC040",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "47AEA548-4525-5F2A-8DA0-8C79600D2B62": {
+            "hideInMindmap": false,
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "pass scum",
+            "color": "rgba(0,0,0,1)",
+            "iframes": [
+                {
+                    "centerY": "89.81",
+                    "dataend": "01:01.42",
+                    "scales": true,
+                    "duration": "01:01.42",
+                    "centerX": "-0.01",
+                    "width": "334.00",
+                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"persefone\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"182A6CCD-D69D-CF06-67F0-8BEEDFD0E947\");\r\t\t} else if (x==\"Persefone\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"182A6CCD-D69D-CF06-67F0-8BEEDFD0E947\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
+                    "height": "246.13",
+                    "zIndex": 3,
+                    "id": "2A19C0CF-F40D-D5B4-DBAD-8C79A8F1C49A",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 862.2333333333333,
+            "size": "small",
+            "y": 286.4,
+            "backgroundColor": "rgba(0,0,0,0.65)",
+            "duration": 60.42429869350948,
+            "images": [
+                {
+                    "centerY": "18.77",
+                    "verticalAlign": "middle",
+                    "dataend": "00:59.98",
+                    "src": "Medias/Photos/black.jpg",
+                    "zIndex": 1,
+                    "id": "1C88E11E-5266-71E3-466D-9A085E9970BA",
+                    "mediaHeight": 1080,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1024,
+                    "scales": true,
+                    "duration": "00:59.98",
+                    "centerX": "-0.00",
+                    "width": "532.00",
+                    "height": "269.00",
+                    "style": {
+                        "opacity": 0.7
+                    },
+                    "name": "black.jpg",
                     "databegin": "00:00.00"
                 },
                 {
+                    "centerY": "-109.53",
+                    "verticalAlign": "middle",
+                    "dataend": "00:59.98",
+                    "src": "Medias/Photos/close_but.png",
+                    "zIndex": 2,
+                    "id": "E4E4A076-AF28-87EC-3632-9A085E9931ED",
+                    "mediaHeight": 240,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 240,
+                    "scales": true,
+                    "duration": "00:59.98",
+                    "centerX": "264.62",
+                    "width": "33.41",
+                    "height": "33.41",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "0A44E8DB-1C70-2C32-15E9-9A08FCAD33EE",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "name": "close_but.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "id": "47AEA548-4525-5F2A-8DA0-8C79600D2B62"
+        },
+        "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/2__3_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "cris 2",
+            "images": [
+                {
+                    "dataend": "01:01.08",
+                    "zIndex": 0,
+                    "id": "B77FAC94-B07E-B947-57C9-8BE60A6026B2",
+                    "name": "2__3_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/2__3_.png",
+                    "duration": "01:01.08",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -351,
+            "size": "small",
+            "y": 737.7,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60.07816932292473,
+            "color": "rgba(0,0,0,1)",
+            "id": "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6",
+            "buttons": [
+                {
                     "centerY": "0.00",
-                    "dataend": "00:31.00",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 3,
+                    "right": "16.00",
+                    "dataend": "01:01.08",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 1,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1252,8 +2129,44 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "5FBA2D90-C87D-6D9F-026D-8BC0705BEC35",
-                        "targetSequence": "D8899CFE-9F65-FA24-7284-8BBA0FFA6B7D",
+                        "id": "7CF33226-D05E-722B-42B9-8BE6AC869242",
+                        "targetSequence": "66677701-2361-B2C1-C7B8-8BDB130CFA81",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.08",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "621C641F-F304-80F4-21C2-8BE633FD3B7B",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.08",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "084D2D72-7EA2-A94C-299A-8BE68CF70FD1",
+                        "targetSequence": "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideRight",
@@ -1267,14 +2180,196 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "00:31.00",
+                    "duration": "01:01.08",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "748989A6-A55A-E43F-7BB6-8BBDAEEA1C0D",
+                    "id": "B59348A7-12F8-11BB-0273-8BE646680035",
                     "databegin": "00:00.00"
                 }
             ]
+        },
+        "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/2__2_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "filastrocca 2",
+            "images": [
+                {
+                    "dataend": "01:01.23",
+                    "zIndex": 0,
+                    "id": "99542B2F-6129-B93F-4A17-8BD325D8C528",
+                    "name": "2__2_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/2__2_.png",
+                    "duration": "01:01.23",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -277.2,
+            "size": "small",
+            "y": 324.85,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60.226510481746764,
+            "color": "rgba(0,0,0,1)",
+            "id": "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.23",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "0FB11B69-B13A-71C3-8CC3-8BD3D45D67A1",
+                        "targetSequence": "15A25693-157D-D1AA-2998-8BCD56B2AED9",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.23",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "D90F8DEA-41A9-3435-5AB5-8BD3668F9813",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:01.23",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "A032E2F8-9F39-61AB-0426-8BD3C06FF958",
+                        "targetSequence": "9CD26701-06BA-EF85-DC35-8BCD5A550C33",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.23",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "E712BC85-D564-6324-155D-8BD3A352E32D",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/close_but.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "contact",
+            "images": [
+                {
+                    "centerY": "-112.56",
+                    "verticalAlign": "middle",
+                    "dataend": "01:00.05",
+                    "src": "Medias/Photos/close_but.png",
+                    "zIndex": 1,
+                    "id": "2DE2AC68-0C55-6E9D-9927-9AC2D7A25199",
+                    "mediaHeight": 240,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 240,
+                    "scales": true,
+                    "duration": "01:00.05",
+                    "centerX": "311.70",
+                    "width": "34.03",
+                    "height": "34.03",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "FE782CE9-B7C8-3E7B-50CC-9AC4A2446115",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "name": "close_but.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1019.2333333333332,
+            "size": "small",
+            "y": -264.75,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 58.79254594646708,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "45.00",
+                    "dataend": "00:59.79",
+                    "type": "txt-Paragraph",
+                    "text": "<p style=\"padding-left: 30px; \">&nbsp;</p>\n<p style=\"padding-left: 30px; \">&nbsp;</p>\n<p style=\"padding-left: 30px; \"><span style=\"font-size: 13pt; font-family: Montserrat; \">Se hai domande o dubbi, non esitare a contattarci. Siamo qui per aiutarti! Puoi scriverci tramite email ai seguenti indirizzi:</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-family: Montserrat; font-size: 13pt;\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-family: Montserrat; font-size: 13pt;\"><span style=\"color: #eeeeee;\"><a href=\"https://mail.google.com/mail/u/vale.one@gmail.com/#compose\"><span style=\"color: #eeeeee;\">Evale.one@gmail.com</span></a></span><br /><span style=\"color: #eeeeee;\"><a href=\"https://mail.google.com/mail/u/Morellisilviaa@gmail.com/#compose\"><span style=\"color: #eeeeee;\">Morellisilviaa@gmail.com</span></a></span><br /></span></p>\n<p><span style=\"font-size: 13pt;\">&nbsp;</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-family: Montserrat; font-size: x-large;\"><span class=\"Apple-style-span\" style=\"font-size: 17px; line-height: 20px;\"><span style=\"font-size: 13pt; \">Saremo liete di rispondere alle tue richieste il prima possibile. Grazie per averci contattato!</span><br /><span style=\"font-size: 13pt; \">Eva e Silvia</span></span></span></p>\n<p>&nbsp;</p>",
+                    "name": "Text 2",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 0,
+                    "scales": true,
+                    "duration": "00:59.75",
+                    "centerX": "0.00",
+                    "width": "630.00",
+                    "height": "323.00",
+                    "style": {
+                        "backgroundColor": "rgba(0,0,0,0.6)"
+                    },
+                    "id": "9B158112-AE21-FD6C-8F64-9B818EF4A2F3",
+                    "databegin": "00:00.04"
+                }
+            ],
+            "id": "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754"
         },
         "6F44C739-CA1F-902C-F125-8BBA0AF069FC": {
             "hideInMindmap": false,
@@ -1383,105 +2478,18 @@ klynt.data = {
                 }
             ]
         },
-        "D606CE06-B07E-4ACA-A771-8BE7F7A7C87F": {
+        "871E8644-E985-4D54-0DC1-8BCD64608EA5": {
             "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/1__2_.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "pass cris",
-            "color": "rgba(0,0,0,1)",
-            "iframes": [
-                {
-                    "centerY": "138.47",
-                    "dataend": "01:01.43",
-                    "zIndex": 5,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "scales": true,
-                    "duration": "01:01.43",
-                    "centerX": "-0.06",
-                    "width": "333.67",
-                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"Emmeline Pankhurst\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"14C340A3-90B1-933C-4714-9BB7EC6E944B\");\r\t\t} else if (x==\"emmeline pankhurst\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"14C340A3-90B1-933C-4714-9BB7EC6E944B\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
-                    "height": "333.67",
-                    "id": "B515994D-077F-2820-5775-8BE89013506F",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 744.6833333333334,
-            "size": "small",
-            "y": 204.2,
-            "backgroundColor": "rgba(0,0,0,0.65)",
-            "duration": 60,
-            "images": [
-                {
-                    "centerY": "18.77",
-                    "verticalAlign": "middle",
-                    "dataend": "01:01.00",
-                    "src": "Medias/Photos/black.jpg",
-                    "zIndex": 4,
-                    "id": "23025B2B-E038-FA63-8F0E-9A05B8D8500D",
-                    "mediaHeight": 1080,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1024,
-                    "scales": true,
-                    "duration": "01:01.00",
-                    "centerX": "-0.00",
-                    "width": "532.00",
-                    "height": "269.00",
-                    "style": {
-                        "opacity": 0.7
-                    },
-                    "name": "black.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-109.53",
-                    "verticalAlign": "middle",
-                    "dataend": "01:01.00",
-                    "src": "Medias/Photos/close_but.png",
-                    "zIndex": 6,
-                    "id": "EBDDADF4-F55F-1481-E6FB-9A05B8D8A7C2",
-                    "mediaHeight": 240,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 240,
-                    "scales": true,
-                    "duration": "01:01.00",
-                    "centerX": "264.62",
-                    "width": "33.41",
-                    "height": "33.41",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "9ABB4072-DF50-CF82-EAA6-9A0977A1832C",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "close_but.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "id": "D606CE06-B07E-4ACA-A771-8BE7F7A7C87F"
-        },
-        "C47E5444-6DED-850C-E561-48D9B63EA851": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/7__1_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "libro 7",
+            "title": "filastrocca 5",
             "images": [
                 {
                     "dataend": "01:00.93",
                     "zIndex": 0,
-                    "id": "0B1F3C71-8F1F-2163-45D4-48DA508554CB",
-                    "name": "7__1_.png",
+                    "id": "B9AE7E1F-6983-39B3-2C5F-8BCDBEEF14B6",
+                    "name": "5__2_.png",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1490,24 +2498,24 @@ klynt.data = {
                     "mediaWidth": 1080,
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
-                    "src": "Medias/Photos/7__1_.png",
+                    "src": "Medias/Photos/5__2_.png",
                     "duration": "01:00.93",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 1141.25,
+            "x": -285.8,
             "size": "small",
-            "y": 287.7,
+            "y": 297.85,
             "backgroundColor": "rgba(0,0,0,0.75)",
             "duration": 59.929828164102695,
             "color": "rgba(0,0,0,1)",
-            "id": "C47E5444-6DED-850C-E561-48D9B63EA851",
+            "id": "871E8644-E985-4D54-0DC1-8BCD64608EA5",
             "buttons": [
                 {
                     "centerY": "0.00",
-                    "right": "16.00",
                     "dataend": "01:00.93",
-                    "type": "klynt-arrow-right",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
                     "zIndex": 1,
                     "transitionIn": {
                         "type": "fade",
@@ -1517,44 +2525,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "043183CB-AA71-EE2C-31CF-48E01133F57F",
-                        "targetSequence": "34F97018-87B0-F5C9-9939-48D9D265877F",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.93",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "B6151648-5571-BC46-19D8-48DA76532C2A",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:00.93",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "7A056A35-C9ED-8832-5C4A-48DB1D9ED50E",
-                        "targetSequence": "7B55A996-687A-7394-DA19-4896307F3E29",
+                        "id": "70C89BA0-1301-DEB7-FD66-8BCE558FAA0E",
+                        "targetSequence": "F275D161-C4D5-71DC-EB38-8BCD60DC19E5",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideRight",
@@ -1572,235 +2544,10 @@ klynt.data = {
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "EC872B1A-00CF-3928-4153-48DAD00AF161",
+                    "id": "64D3E168-788D-7B66-35AB-8BCE45191C48",
                     "databegin": "00:00.00"
                 }
             ]
-        },
-        "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/9.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "libro 9",
-            "images": [
-                {
-                    "dataend": "01:01.00",
-                    "zIndex": 1,
-                    "id": "836D4DD0-47AF-9145-52FF-48DB954C6BE4",
-                    "name": "9.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/9.png",
-                    "duration": "01:01.00",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 1153.1,
-            "size": "small",
-            "y": 357.45,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60,
-            "color": "rgba(0,0,0,1)",
-            "id": "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:01.00",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "794B4098-408C-5A33-419B-48DC53BE2538",
-                        "targetSequence": "34F97018-87B0-F5C9-9939-48D9D265877F",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.00",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "A28A8E43-4F4F-1A12-1DCC-48DC2E03C761",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "06FDF404-8392-8B5D-02A5-8C5599E2EFD3": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/IMG_4__1_.PNG.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "scum4",
-            "images": [
-                {
-                    "dataend": "01:01.03",
-                    "zIndex": 0,
-                    "id": "C2A97087-F696-4346-26F5-8C5D11FF093F",
-                    "name": "IMG_4__1_.PNG",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/IMG_4__1_.PNG",
-                    "duration": "01:01.03",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 188.33333333333337,
-            "size": "small",
-            "y": 906.95,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60.02872226998405,
-            "color": "rgba(0,0,0,1)",
-            "id": "06FDF404-8392-8B5D-02A5-8C5599E2EFD3",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:01.03",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "56C746D5-770D-66F5-E8B9-8C5D9424C174",
-                        "targetSequence": "1705EC52-A475-5E29-57BC-8C55971B5B88",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.03",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "B0052196-6BB8-EFF6-FAD3-8C5D53FD5EB4",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "45683511-65EC-E2CC-1CEA-8BC5A4FE801B": {
-            "hideInMindmap": false,
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "pass rago",
-            "color": "rgba(0,0,0,1)",
-            "iframes": [
-                {
-                    "centerY": "93.00",
-                    "dataend": "01:01.00",
-                    "scales": true,
-                    "duration": "01:01.00",
-                    "centerX": "0.00",
-                    "width": "339.00",
-                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"malala yousafzai\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"10F7169D-7622-F311-CC9B-8C898432F0FA\");\r\t\t} else if (x==\"Malala Yousafzai\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"10F7169D-7622-F311-CC9B-8C898432F0FA\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
-                    "height": "245.00",
-                    "zIndex": 3,
-                    "id": "9F4B4E3F-2571-7D17-33E0-8BC649514992",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 651.3333333333334,
-            "size": "small",
-            "y": 103.65,
-            "backgroundColor": "rgba(0,0,0,0.65)",
-            "duration": 60,
-            "images": [
-                {
-                    "centerY": "18.77",
-                    "verticalAlign": "middle",
-                    "dataend": "01:01.00",
-                    "src": "Medias/Photos/black.jpg",
-                    "zIndex": 1,
-                    "id": "B105090E-E91C-CAEB-B66B-9A07798DA934",
-                    "mediaHeight": 1080,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1024,
-                    "scales": true,
-                    "duration": "01:01.00",
-                    "centerX": "-0.00",
-                    "width": "532.00",
-                    "height": "269.00",
-                    "style": {
-                        "opacity": 0.7
-                    },
-                    "name": "black.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-109.53",
-                    "verticalAlign": "middle",
-                    "dataend": "01:01.00",
-                    "src": "Medias/Photos/close_but.png",
-                    "zIndex": 2,
-                    "id": "E4EA9270-5848-BA1E-4888-9A07798D2A53",
-                    "mediaHeight": 240,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 240,
-                    "scales": true,
-                    "duration": "01:01.00",
-                    "centerX": "264.62",
-                    "width": "33.41",
-                    "height": "33.41",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "448179AA-9A0E-C8D0-1128-9A0934060C78",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "close_but.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "id": "45683511-65EC-E2CC-1CEA-8BC5A4FE801B"
         },
         "D8899CFE-9F65-FA24-7284-8BBA0FFA6B7D": {
             "hideInMindmap": false,
@@ -1913,18 +2660,18 @@ klynt.data = {
                 }
             ]
         },
-        "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63": {
+        "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/7__2_.png.png",
+            "thumbnail": "Medias/Thumbnails/4__1_.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "cris 7",
+            "title": "rago4",
             "images": [
                 {
-                    "dataend": "01:01.28",
-                    "zIndex": 0,
-                    "id": "B0FD89F0-F3F2-4AD8-EB2D-8BDFD9CCB86F",
-                    "name": "7__2_.png",
+                    "dataend": "00:31.00",
+                    "zIndex": 1,
+                    "id": "A4D8048B-1641-0F1E-484B-8BBD4A4287A4",
+                    "name": "4__1_.png",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1933,59 +2680,23 @@ klynt.data = {
                     "mediaWidth": 1080,
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
-                    "src": "Medias/Photos/7__2_.png",
-                    "duration": "01:01.28",
+                    "src": "Medias/Photos/4__1_.png",
+                    "duration": "00:31.00",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": -405.3,
+            "x": 132.53333333333336,
             "size": "small",
-            "y": 695.6,
+            "y": -81.75,
             "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60.27595753468744,
+            "duration": 30,
             "color": "rgba(0,0,0,1)",
-            "id": "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63",
+            "id": "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1",
             "buttons": [
                 {
                     "centerY": "0.00",
-                    "dataend": "01:01.28",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "CF9F7AFC-C101-2172-C74A-8BE06D11264A",
-                        "targetSequence": "56AA51B4-07BB-170A-F7A3-8BDB09790F79",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.28",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "720A7641-53F5-DD77-E1CA-8BE013D81C82",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
                     "right": "16.00",
-                    "dataend": "01:01.28",
+                    "dataend": "00:31.00",
                     "type": "klynt-arrow-right",
                     "zIndex": 2,
                     "transitionIn": {
@@ -1996,8 +2707,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "B0770A61-566C-ECAA-9B9C-8BE082967977",
-                        "targetSequence": "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24",
+                        "id": "0391D486-A040-8E5E-CB6F-8BC044A71539",
+                        "targetSequence": "D2E5F960-15ED-0ACF-430C-8BBA06043299",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideLeft",
@@ -2011,54 +2722,19 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "01:01.28",
+                    "duration": "00:31.00",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "53A8E572-EDAF-4EB2-0591-8BE030C123AC",
+                    "id": "6AD78646-491C-9E17-D6B2-8BC01DEB88EE",
                     "databegin": "00:00.00"
-                }
-            ]
-        },
-        "871E8644-E985-4D54-0DC1-8BCD64608EA5": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/1__2_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "filastrocca 5",
-            "images": [
-                {
-                    "dataend": "01:00.93",
-                    "zIndex": 0,
-                    "id": "B9AE7E1F-6983-39B3-2C5F-8BCDBEEF14B6",
-                    "name": "5__2_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/5__2_.png",
-                    "duration": "01:00.93",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -285.8,
-            "size": "small",
-            "y": 297.85,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.929828164102695,
-            "color": "rgba(0,0,0,1)",
-            "id": "871E8644-E985-4D54-0DC1-8BCD64608EA5",
-            "buttons": [
+                },
                 {
                     "centerY": "0.00",
-                    "dataend": "01:00.93",
+                    "dataend": "00:31.00",
                     "left": "16.00",
                     "type": "klynt-arrow-left",
-                    "zIndex": 1,
+                    "zIndex": 3,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2067,8 +2743,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "70C89BA0-1301-DEB7-FD66-8BCE558FAA0E",
-                        "targetSequence": "F275D161-C4D5-71DC-EB38-8BCD60DC19E5",
+                        "id": "5FBA2D90-C87D-6D9F-026D-8BC0705BEC35",
+                        "targetSequence": "D8899CFE-9F65-FA24-7284-8BBA0FFA6B7D",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideRight",
@@ -2082,27 +2758,27 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "01:00.93",
+                    "duration": "00:31.00",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "64D3E168-788D-7B66-35AB-8BCE45191C48",
+                    "id": "748989A6-A55A-E43F-7BB6-8BBDAEEA1C0D",
                     "databegin": "00:00.00"
                 }
             ]
         },
-        "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4": {
+        "7B55A996-687A-7394-DA19-4896307F3E29": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/1__1_.png.png",
+            "thumbnail": "Medias/Thumbnails/6.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "rago",
+            "title": "libro 6",
             "images": [
                 {
                     "dataend": "01:01.00",
                     "zIndex": 0,
-                    "id": "67190E89-091C-DCB3-7F93-8BB930BE2128",
-                    "name": "1__1_.png",
+                    "id": "4EF6C7C0-B6EB-5BC9-43DC-48D8EDBFA4E7",
+                    "name": "6.png",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2111,23 +2787,134 @@ klynt.data = {
                     "mediaWidth": 1080,
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
-                    "src": "Medias/Photos/1__1_.png",
+                    "src": "Medias/Photos/6.png",
                     "duration": "01:01.00",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 159.43333333333334,
+            "x": 1136.8,
             "size": "small",
-            "y": -162.15,
+            "y": 238.6,
             "backgroundColor": "rgba(0,0,0,0.75)",
             "duration": 60,
             "color": "rgba(0,0,0,1)",
-            "id": "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4",
+            "id": "7B55A996-687A-7394-DA19-4896307F3E29",
             "buttons": [
                 {
                     "centerY": "0.00",
                     "right": "16.00",
-                    "dataend": "00:05.40",
+                    "dataend": "01:01.00",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "52B5E6A4-4826-B42D-612D-48E61A0F4E77",
+                        "targetSequence": "C47E5444-6DED-850C-E561-48D9B63EA851",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.00",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "05AF1B29-8954-92BA-BB9D-48D93277F637",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.00",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "429B819E-0AEF-AF1E-78AA-48D990FD9470",
+                        "targetSequence": "E176E103-59C3-D529-997C-48963CD063DA",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.00",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "A8BB7466-F250-A13E-BB9A-48D958AD6E29",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "66677701-2361-B2C1-C7B8-8BDB130CFA81": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/3__3_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "cris 3",
+            "images": [
+                {
+                    "dataend": "01:00.88",
+                    "zIndex": 0,
+                    "id": "1464A41C-693B-58AB-D01B-8BE52C4D8895",
+                    "name": "3__3_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/3__3_.png",
+                    "duration": "01:00.88",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -347.5,
+            "size": "small",
+            "y": 762.15,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.880381111162016,
+            "color": "rgba(0,0,0,1)",
+            "id": "66677701-2361-B2C1-C7B8-8BDB130CFA81",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:00.88",
                     "type": "klynt-arrow-right",
                     "zIndex": 1,
                     "transitionIn": {
@@ -2142,8 +2929,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "177DBDA2-84E8-814D-5089-8BC4842FAB4E",
-                        "targetSequence": "6F44C739-CA1F-902C-F125-8BBA0AF069FC",
+                        "id": "FEA8F61A-542F-F9B5-A909-8BE5C18EB016",
+                        "targetSequence": "6283401B-0F8F-3D7D-1935-8BDB1622C13A",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideLeft",
@@ -2157,77 +2944,36 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "00:05.00",
+                    "duration": "01:00.88",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "2D05C62D-00F3-198A-A002-8BC478A87DB9",
-                    "databegin": "00:00.40"
-                }
-            ]
-        },
-        "EB5CFA9C-43E8-63C2-78BE-438AACE76916": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/school.jpg.jpg",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "Home",
-            "images": [
-                {
-                    "mediaHeight": 1080,
-                    "dataend": "00:55.36",
-                    "mediaWidth": 1920,
-                    "zIndex": 0,
-                    "duration": "00:55.36",
-                    "name": "main_bg.jpg",
-                    "fitToWindow": true,
-                    "src": "Medias/Photos/main_bg.jpg",
-                    "scaleMode": "letterbox",
-                    "id": "239B786A-2DD2-2D0E-F776-9B6866A98931",
+                    "id": "BD2E031F-14A6-69BB-4B74-8BE57211A988",
                     "databegin": "00:00.00"
                 },
                 {
-                    "centerY": "2.69",
-                    "dataend": "00:54.99",
-                    "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 1,
-                    "id": "3DB8D295-6410-6DEA-9AD7-95948C449CA2",
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 94,
-                    "scales": true,
-                    "duration": "00:54.99",
-                    "centerX": "-464.27",
-                    "width": "48.24",
-                    "height": "554.28",
-                    "name": "gray.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "25.20",
-                    "verticalAlign": "middle",
-                    "dataend": "00:59.88",
-                    "src": "Medias/Photos/INFO.png",
+                    "centerY": "0.00",
+                    "dataend": "01:00.88",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
                     "zIndex": 2,
-                    "id": "A708EA6E-D66F-B130-40B1-95C75681979C",
-                    "mediaHeight": 1600,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1600,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-463.75",
-                    "width": "32.82",
-                    "height": "32.82",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
                     "link": {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "6304B423-E3FC-C311-1644-95C756819C3E",
-                        "targetSequence": "86E601AE-425F-4F7F-704E-95BF03D05DE7",
-                        "closeButton": false,
+                        "id": "433C7ED3-83FE-2034-47CE-8BE5D9771F3C",
+                        "targetSequence": "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6",
+                        "closeButton": true,
                         "automaticClose": false,
-                        "transition": "fade",
+                        "transition": "slideRight",
                         "color": "rgba(0,0,0,1)",
                         "closeButtonTop": 16,
                         "closeButtonRight": 16,
@@ -2237,51 +2983,310 @@ klynt.data = {
                         "overlay": true,
                         "controlDX": 0
                     },
-                    "name": "INFO.png",
+                    "scales": false,
+                    "duration": "01:00.88",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "FBFDD633-C714-8569-4C46-8BE565A4D109",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/book.jpg.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "libro 0",
+            "images": [
+                {
+                    "mediaHeight": 1080,
+                    "dataend": "01:00.00",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "duration": "01:00.00",
+                    "name": "book.jpg",
+                    "fitToWindow": true,
+                    "src": "Medias/Photos/book.jpg",
+                    "scaleMode": "letterbox",
+                    "id": "7E752575-7DC8-BCD5-C13F-9BAA46835283",
                     "databegin": "00:00.00"
                 },
                 {
-                    "centerY": "-243.59",
+                    "centerY": "-252.80",
+                    "dataend": "00:59.88",
+                    "src": "Medias/Photos/gray.jpg",
+                    "zIndex": 1,
+                    "id": "92C108E6-C1A6-811D-1D80-9BAB2D905B77",
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 94,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-238.78",
+                    "width": "45.78",
+                    "height": "498.04",
+                    "style": {
+                        "rotation": -90.06561301264
+                    },
+                    "name": "gray.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.80",
+                    "dataend": "00:59.88",
+                    "src": "Medias/Photos/gray.jpg",
+                    "zIndex": 2,
+                    "id": "687CD9E3-3130-B872-F07F-9BAB2D9096D5",
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 94,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "238.37",
+                    "width": "45.78",
+                    "height": "498.04",
+                    "style": {
+                        "rotation": -90.06561301264
+                    },
+                    "name": "gray.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.49",
                     "verticalAlign": "middle",
                     "dataend": "00:59.88",
                     "src": "Medias/Photos/logo_2.png",
-                    "zIndex": 6,
-                    "id": "9F2360A2-347E-58CE-E88C-95CE79C9B5A0",
+                    "zIndex": 3,
+                    "id": "20081E18-B9EA-B960-7D09-9BAB2D9088F8",
                     "mediaHeight": 916,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
                     "mediaWidth": 1107,
                     "scales": true,
                     "duration": "00:59.88",
-                    "centerX": "-464.16",
+                    "centerX": "-456.38",
                     "width": "45.01",
                     "height": "37.25",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "6A02FCAF-D08B-C4BE-4F9F-9BC7840504DA",
+                        "color": "rgba(0,0,0,1)"
+                    },
                     "name": "logo_2.png",
                     "databegin": "00:00.00"
                 },
                 {
-                    "centerY": "71.28",
+                    "centerY": "-251.30",
                     "verticalAlign": "middle",
-                    "dataend": "00:54.99",
-                    "src": "Medias/Photos/contacts.png",
-                    "zIndex": 12,
-                    "id": "52804993-594D-A6B5-A5A1-9A6DEEF74B22",
+                    "dataend": "00:59.75",
+                    "src": "Medias/Photos/next.png",
+                    "zIndex": 8,
+                    "id": "24F01F33-909C-B25B-5557-9BAB2D902246",
                     "mediaHeight": 512,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
                     "mediaWidth": 512,
                     "scales": true,
-                    "duration": "00:54.99",
-                    "centerX": "-463.22",
-                    "width": "32.44",
-                    "height": "32.44",
+                    "duration": "00:59.75",
+                    "centerX": "458.08",
+                    "width": "36.84",
+                    "height": "36.84",
+                    "name": "next.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.64",
+                    "verticalAlign": "middle",
+                    "dataend": "01:00.00",
+                    "src": "Medias/Photos/-xy.png",
+                    "zIndex": 11,
+                    "id": "D1663BB2-4682-DAA0-2627-9BABD91140E4",
+                    "mediaHeight": 638,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 549,
+                    "scales": true,
+                    "duration": "01:00.00",
+                    "centerX": "-294.82",
+                    "width": "27.77",
+                    "height": "32.27",
+                    "link": {
+                        "targetURL": "https://drive.google.com/file/d/11s4c4E0rLzP9AsV4BGM45Ga0jkV0NCxe/view?usp=drive_link",
+                        "linkType": "linkToURL",
+                        "id": "B56DB530-84DD-991C-AC93-9BAC61CC5497",
+                        "window": "_blank"
+                    },
+                    "name": "-xy.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-3.88",
+                    "verticalAlign": "middle",
+                    "dataend": "01:00.00",
+                    "src": "Medias/Photos/1.png",
+                    "zIndex": 12,
+                    "id": "3EA3613D-FCA8-47BA-3C50-9BAD14B38D4B",
+                    "mediaHeight": 1080,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1080,
+                    "scales": true,
+                    "duration": "01:00.00",
+                    "centerX": "1.73",
+                    "width": "257.17",
+                    "height": "257.17",
+                    "name": "1.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1294.25,
+            "size": "medium",
+            "y": -117.7,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "duration": 54.24341707592463,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "-250.17",
+                    "dataend": "01:00.00",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
+                    "name": "Text 1",
+                    "zIndex": 4,
+                    "scales": true,
+                    "duration": "01:00.00",
+                    "centerX": "-417.24",
+                    "width": "31.70",
+                    "height": "65.16",
+                    "style": {
+                        "opacity": 0.6,
+                        "rotation": -0.624913061495752
+                    },
+                    "id": "61E01D88-5AC4-65EC-EE1A-9BAB2D908E46",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-251.18",
+                    "dataend": "00:59.88",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
+                    "name": "Text 1",
+                    "zIndex": 5,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-319.38",
+                    "width": "13.87",
+                    "height": "65.16",
+                    "style": {
+                        "opacity": 0.6,
+                        "rotation": -0.6249130709331597
+                    },
+                    "id": "65461A13-77FC-4AF3-D35E-9BAB2D904F24",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-264.84",
+                    "dataend": "00:59.88",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
+                    "name": "Text 2",
+                    "zIndex": 6,
+                    "link": {
+                        "targetURL": "https://drive.google.com/file/d/1-AnR3DnN3pwiWp49PgThSqMST03K6cYi/view?usp=sharing",
+                        "linkType": "linkToURL",
+                        "id": "BAAE43B3-42DB-AEF6-1E76-9BAB2D90E7F7",
+                        "window": "_blank"
+                    },
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-369.52",
+                    "width": "93.52",
+                    "height": "66.73",
+                    "style": {
+                        "opacity": 0.9,
+                        "rotation": 0.11876919004907344
+                    },
+                    "id": "6B963DC0-114C-80B4-35FD-9BAB2D90C233",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-250.86",
+                    "dataend": "00:59.88",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
+                    "name": "Text 2",
+                    "zIndex": 7,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-367.71",
+                    "width": "86.86",
+                    "height": "66.73",
+                    "style": {
+                        "opacity": 0.9,
+                        "rotation": -0.20106128413900912
+                    },
+                    "id": "AEA23377-8FFB-55FB-D982-9BAB2D90BA7A",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-228.01",
+                    "dataend": "00:59.88",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"font-family: Montserrat;\">Back to the Home</span></p>",
+                    "name": "Text 5",
+                    "zIndex": 9,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "398.12",
+                    "width": "166.84",
+                    "height": "66.73",
                     "link": {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "516DACED-4E41-AF5B-1AE0-9AC3D4875870",
-                        "targetSequence": "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754",
-                        "closeButton": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "5D81DFEA-00A6-2FAD-143F-9BAB2D90C347",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "36EF10A6-AD36-E70B-B9E3-9BAB2D9066C1",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "162.39",
+                    "dataend": "01:00.00",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-size: 11pt; font-family: Montserrat; color: #111111;\">Mostra i Contenuti</span></p>",
+                    "name": "Text 6",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 10,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "9.42",
+                    "width": "163.66",
+                    "height": "66.73",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "2BF5CCC7-43E6-4B24-2B1A-9BAB2D9022BE",
+                        "targetSequence": "815E0BC0-0F28-92DE-731D-487354FFEA40",
+                        "closeButton": true,
                         "automaticClose": false,
                         "transition": "fade",
                         "color": "rgba(0,0,0,1)",
@@ -2293,144 +3298,11 @@ klynt.data = {
                         "overlay": true,
                         "controlDX": 0
                     },
-                    "name": "contacts.png",
-                    "databegin": "00:00.00"
+                    "id": "331F72C2-86A9-1501-4082-9BAB2D90C6A6",
+                    "databegin": "00:00.12"
                 }
             ],
-            "iframes": [
-                {
-                    "centerY": "-88.98",
-                    "dataend": "00:55.36",
-                    "zIndex": 11,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "scales": true,
-                    "duration": "00:55.36",
-                    "centerX": "16.62",
-                    "width": "587.27",
-                    "code": "<!DOCTYPE html>\r<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r    <script src=\"https://unpkg.com/sweetalert/dist/sweetalert.min.js\"></script>\r\t<!-- STILE -->\r\t<style>\r    .swal-button {\r     background-color: red;\r     }\r    .swal-button:not([disabled]):hover {\r     background-color: lightgrey;\r     }\r\t#frame-body {\r          justify-content: center;\r          align-items: center;\r\t}\r\tinput{\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\t#frame-body button {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 90%\r\t}\r\r    .maintimer{\r        margin: 30px;\r        width: 100%;\r        justify-content: center;\r        text-align: center;\r        color: rgb(161, 34, 34);\r        line-height: normal;\r        font-size: 50px;\r        font-family: \"Verdana\";\r    }\r\r    .digittimer{\r        color: rgb(231, 228, 218);\r        background: rgb(161, 34, 34);\r        margin: 4px;\r        font-size: 50px;\r    }\r\r    .colontimer {\r        position: relative;\r        top: -.1em;\r    }\r\r    .texttimer{\r        font-size: 15px;\r    }\r\t</style>\r</head>\r<body>\r<div id=\"frame-body\" style=\"display:flex; flex-direction: column;\">\r<div class=\"maintimer\" style=\"display:flex;flex-direction: row;\">\r    <div>\r        <div>\r            <span class=\"digittimer\" id=\"time-d-0\">0</span><span class=\"digittimer\" id=\"time-d-1\">1</span>\r        </div>\r        <div class=\"texttimer\">\r            DAYS\r        </div>\r    </div>\r    <div class=\"colontimer\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digittimer\" id=\"time-h-0\">2</span><span class=\"digittimer\" id=\"time-h-1\">0</span>\r        </div>\r        <div class=\"texttimer\">\r            HOURS\r        </div>\r    </div>\r    <div class=\"colontimer\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digittimer \" id=\"time-m-0\">1</span><span class=\"digittimer \" id=\"time-m-1\">4</span>\r        </div>\r        <div class=\"texttimer\">\r            MINUTES\r        </div>\r    </div>\r    <div class=\"colontimer\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digittimer \" id=\"time-s-0\">0</span><span class=\"digittimer \" id=\"time-s-1\">3</span>\r        </div>\r        <div class=\"texttimer\">\r            SECONDS\r        </div>\r    </div>\r</div>\r\r<br>\r<br>\r<br>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\r    function show(){\r        var distance = new Date(\"2023/06/09 19:00\") - new Date();\r        if (distance < 0){\r            distance = 0;\r        }\r        var days = Math.floor(distance / (1000 * 60 * 60 * 24));\r        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\r        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\r        var seconds = Math.floor((distance % (1000 * 60)) / 1000);\r\r        document.getElementById(\"time-d-0\").innerHTML = Math.floor(days / 10) % 10;\r        document.getElementById(\"time-d-1\").innerHTML = (days) % 10;\r        document.getElementById(\"time-h-0\").innerHTML = Math.floor(hours / 10) % 10;\r        document.getElementById(\"time-h-1\").innerHTML = (hours) % 10;\r        document.getElementById(\"time-m-0\").innerHTML = Math.floor(minutes / 10) % 10;\r        document.getElementById(\"time-m-1\").innerHTML = (minutes) % 10;\r        document.getElementById(\"time-s-0\").innerHTML = Math.floor(seconds / 10) % 10;\r        document.getElementById(\"time-s-1\").innerHTML = (seconds) % 10;\r    }\r\r    show();\r    var timer_1 = setInterval(function () {\r        show();\r    }, 1000);\r\t</script>\r</div>\r</body></html>",
-                    "height": "207.99",
-                    "id": "3843A6AD-5E24-2D3B-7B0C-9C0FC03D00CB",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 385.58333333333337,
-            "size": "small",
-            "y": 183.55,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 52.77429246993578,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "-134.58",
-                    "dataend": "00:54.99",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"color: #333333; font-family: 'Back to Black Demo'; font-size: 42pt;\">Il Libro Delle Femmine</span></p>",
-                    "name": "Text 4",
-                    "zIndex": 5,
-                    "scales": true,
-                    "duration": "00:54.99",
-                    "centerX": "67.23",
-                    "width": "661.79",
-                    "height": "224.67",
-                    "id": "9EB091E7-3FED-5467-EB5F-9A7D0CFD1F1D",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-205.54",
-                    "dataend": "00:54.99",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
-                    "name": "Text 1",
-                    "zIndex": 7,
-                    "scales": true,
-                    "duration": "00:54.99",
-                    "centerX": "-465.02",
-                    "width": "31.70",
-                    "height": "65.16",
-                    "style": {
-                        "opacity": 0.6,
-                        "rotation": 90
-                    },
-                    "id": "E159920B-0F05-BEBA-0BA6-9691D1AB8570",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-139.14",
-                    "dataend": "00:54.99",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
-                    "name": "Text 2",
-                    "zIndex": 8,
-                    "scales": true,
-                    "duration": "00:54.99",
-                    "centerX": "-450.52",
-                    "width": "135.81",
-                    "height": "66.73",
-                    "style": {
-                        "opacity": 0.9,
-                        "rotation": 90
-                    },
-                    "id": "942867E6-D90C-55A3-CC31-9B8B21B69467",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-147.48",
-                    "dataend": "00:54.99",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
-                    "name": "Text 2",
-                    "zIndex": 10,
-                    "scales": true,
-                    "duration": "00:54.99",
-                    "centerX": "-464.98",
-                    "width": "108.00",
-                    "height": "66.73",
-                    "style": {
-                        "opacity": 0.9,
-                        "rotation": 90
-                    },
-                    "id": "11E46756-A0B3-CEED-0A2F-9B8B21B63BE8",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "id": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-            "buttons": [
-                {
-                    "centerY": "-24.00",
-                    "dataend": "00:54.99",
-                    "type": "klynt-button-8",
-                    "zIndex": 4,
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "6D340B20-23CC-2F33-4795-958C2BC4DA95",
-                        "targetSequence": "4D997339-8200-FCBD-EFEA-47C734515197",
-                        "closeButton": false,
-                        "automaticClose": false,
-                        "transition": "none",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": true,
-                    "duration": "00:54.99",
-                    "centerX": "-463.00",
-                    "width": "44.00",
-                    "height": "44.00",
-                    "label": "",
-                    "id": "2AAE48C8-5725-4548-9758-958C2BC44D21",
-                    "databegin": "00:00.00"
-                }
-            ]
+            "id": "84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572"
         },
         "F93F6391-EBF8-8862-DF24-4896231AAB3B": {
             "hideInMindmap": false,
@@ -2543,395 +3415,6 @@ klynt.data = {
                 }
             ]
         },
-        "9CD26701-06BA-EF85-DC35-8BCD5A550C33": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/3__2_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "filastrocca 3",
-            "images": [
-                {
-                    "dataend": "01:00.98",
-                    "zIndex": 0,
-                    "id": "720DE8A6-3148-B088-7057-8BD2080FFA83",
-                    "name": "3__2_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/3__2_.png",
-                    "duration": "01:00.98",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -253.1,
-            "size": "small",
-            "y": 345.15,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.97927521704337,
-            "color": "rgba(0,0,0,1)",
-            "id": "9CD26701-06BA-EF85-DC35-8BCD5A550C33",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:00.98",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "928DF427-9DDC-6F90-4CA7-8BD2A5A854B4",
-                        "targetSequence": "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "68C50671-ACBF-C753-2F18-8BD23689DC59",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:00.98",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "E40B9522-631F-1824-EE27-8BD293E082BA",
-                        "targetSequence": "F275D161-C4D5-71DC-EB38-8BCD60DC19E5",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "8B662FE4-868B-E2AE-6495-8BD26C672164",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "86E601AE-425F-4F7F-704E-95BF03D05DE7": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/US_.mp4.jpg",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "ABOUT US",
-            "images": [
-                {
-                    "centerY": "-166.84",
-                    "verticalAlign": "middle",
-                    "dataend": "00:38.83",
-                    "src": "Medias/Photos/close_but.png",
-                    "zIndex": 2,
-                    "id": "F7E75B3D-4550-609C-8756-95C333BE1FBB",
-                    "mediaHeight": 240,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 240,
-                    "scales": true,
-                    "duration": "00:38.83",
-                    "centerX": "316.93",
-                    "width": "35.59",
-                    "height": "35.59",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "CCEFA8BD-DC14-D127-D3D7-95C3666CF6ED",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "close_but.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 1121.8,
-            "size": "small",
-            "y": 840.95,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "videos": [
-                {
-                    "centerY": "21.50",
-                    "verticalAlign": "middle",
-                    "dataend": "00:37.83",
-                    "zIndex": 1,
-                    "frameRate": 0,
-                    "player": true,
-                    "mediaWidth": 480,
-                    "volume": 0.9,
-                    "scales": true,
-                    "name": "US_.mp4",
-                    "autoplay": true,
-                    "loop": false,
-                    "height": "640.41",
-                    "id": "38996F1F-7116-2EC0-9755-95C14BC5F506",
-                    "width": "377.21",
-                    "poster": "Medias/Posters/US_.mp4.jpg",
-                    "mediaHeight": 816,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "syncMaster": true,
-                    "scaleMode": "zoom",
-                    "duration": "00:37.83",
-                    "centerX": "1.32",
-                    "src": [
-                        {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/US_.mp4"
-                        }
-                    ],
-                    "style": {
-                        "rotation": -90
-                    },
-                    "horizontalAlign": "center",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "duration": 37.825,
-            "color": "rgba(0,0,0,1)",
-            "id": "86E601AE-425F-4F7F-704E-95BF03D05DE7"
-        },
-        "34F97018-87B0-F5C9-9939-48D9D265877F": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/8.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "libro 8",
-            "images": [
-                {
-                    "dataend": "01:00.88",
-                    "zIndex": 0,
-                    "id": "39B0F252-518D-2690-90B6-48DE7602F245",
-                    "name": "8.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/8.png",
-                    "duration": "01:00.88",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 1126.35,
-            "size": "small",
-            "y": 315.6,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.880381111162016,
-            "color": "rgba(0,0,0,1)",
-            "id": "34F97018-87B0-F5C9-9939-48D9D265877F",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:00.88",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "96592349-CDBF-34DC-997F-48DF415FD341",
-                        "targetSequence": "C47E5444-6DED-850C-E561-48D9B63EA851",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.88",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "C42330FD-B2FB-B800-A236-48DEF008A97A",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:00.88",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "DA8ED167-4D48-6946-D7CA-48DF24D7BB69",
-                        "targetSequence": "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.88",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "925B5ECE-DFC7-5A9F-35D8-48DEE143D678",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "C6A56CB5-EC1E-FEBC-58AC-483767012B1C": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/black.jpg.jpg",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "password libro",
-            "images": [
-                {
-                    "centerY": "18.77",
-                    "verticalAlign": "middle",
-                    "dataend": "01:00.98",
-                    "src": "Medias/Photos/black.jpg",
-                    "zIndex": 0,
-                    "id": "780C4384-8B6E-5B32-CF42-9A0236D55D52",
-                    "mediaHeight": 1080,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1024,
-                    "scales": true,
-                    "duration": "01:00.98",
-                    "centerX": "-0.00",
-                    "width": "532.00",
-                    "height": "269.00",
-                    "style": {
-                        "opacity": 0.7
-                    },
-                    "name": "black.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-109.53",
-                    "verticalAlign": "middle",
-                    "dataend": "01:00.98",
-                    "src": "Medias/Photos/close_but.png",
-                    "zIndex": 2,
-                    "id": "42A1ED89-F987-5814-CA1D-9A03788E2D90",
-                    "mediaHeight": 240,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 240,
-                    "scales": true,
-                    "duration": "01:00.98",
-                    "centerX": "264.62",
-                    "width": "33.41",
-                    "height": "33.41",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "0FD71823-BFC5-3E82-C210-9A09B388AE24",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "close_but.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "iframes": [
-                {
-                    "centerY": "20.00",
-                    "dataend": "01:00.98",
-                    "scales": true,
-                    "duration": "01:00.98",
-                    "centerX": "0.00",
-                    "width": "334.00",
-                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"Artemisia Gentileschi\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572\");\r\t\t} else if (x==\"artemisia gentileschi\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
-                    "height": "101.00",
-                    "zIndex": 1,
-                    "id": "ED2630A8-95FF-7D52-8B18-903AE4337C8A",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 835.3333333333334,
-            "size": "small",
-            "y": 160.4,
-            "backgroundColor": "rgba(0,0,0,0.65)",
-            "duration": 59.98,
-            "color": "rgba(0,0,0,1)",
-            "id": "C6A56CB5-EC1E-FEBC-58AC-483767012B1C"
-        },
         "B87A9EBD-DA4E-E1FC-5B64-8BDB18E8A2BD": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/5__3_.png.png",
@@ -3039,220 +3522,34 @@ klynt.data = {
                 }
             ]
         },
-        "1705EC52-A475-5E29-57BC-8C55971B5B88": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/IMG_3__1_.PNG.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "scum3",
-            "images": [
-                {
-                    "dataend": "01:01.08",
-                    "zIndex": 0,
-                    "id": "94CE821E-1B0D-A073-8B49-8C5BB6B3D4F6",
-                    "name": "IMG_3__1_.PNG",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/IMG_3__1_.PNG",
-                    "duration": "01:01.08",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 248.03333333333333,
-            "size": "small",
-            "y": 892.4,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60.07816932292473,
-            "color": "rgba(0,0,0,1)",
-            "id": "1705EC52-A475-5E29-57BC-8C55971B5B88",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:01.08",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "9E85CFD5-6241-FE93-B61D-8C5C3CEBE0C9",
-                        "targetSequence": "4E385C63-C2A9-00E4-C397-8C559459A747",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.08",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "A29FEBAB-E8CD-F7DF-BF5D-8C5BE93D5985",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:01.08",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "FAF5557A-4A60-E522-02C3-8C5C610B2EEE",
-                        "targetSequence": "06FDF404-8392-8B5D-02A5-8C5599E2EFD3",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.08",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "775B2171-BC3E-3EB1-F1A8-8C5BFA634867",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "47AEA548-4525-5F2A-8DA0-8C79600D2B62": {
+        "D606CE06-B07E-4ACA-A771-8BE7F7A7C87F": {
             "hideInMindmap": false,
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "pass scum",
+            "title": "pass cris",
             "color": "rgba(0,0,0,1)",
             "iframes": [
                 {
-                    "centerY": "89.81",
-                    "dataend": "01:01.42",
-                    "scales": true,
-                    "duration": "01:01.42",
-                    "centerX": "-0.01",
-                    "width": "334.00",
-                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"persefone\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"182A6CCD-D69D-CF06-67F0-8BEEDFD0E947\");\r\t\t} else if (x==\"Persefone\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"182A6CCD-D69D-CF06-67F0-8BEEDFD0E947\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
-                    "height": "246.13",
-                    "zIndex": 3,
-                    "id": "2A19C0CF-F40D-D5B4-DBAD-8C79A8F1C49A",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 862.2333333333333,
-            "size": "small",
-            "y": 286.4,
-            "backgroundColor": "rgba(0,0,0,0.65)",
-            "duration": 60.42429869350948,
-            "images": [
-                {
-                    "centerY": "18.77",
-                    "verticalAlign": "middle",
-                    "dataend": "00:59.98",
-                    "src": "Medias/Photos/black.jpg",
-                    "zIndex": 1,
-                    "id": "1C88E11E-5266-71E3-466D-9A085E9970BA",
-                    "mediaHeight": 1080,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1024,
-                    "scales": true,
-                    "duration": "00:59.98",
-                    "centerX": "-0.00",
-                    "width": "532.00",
-                    "height": "269.00",
-                    "style": {
-                        "opacity": 0.7
+                    "centerY": "138.47",
+                    "dataend": "01:01.43",
+                    "zIndex": 5,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
                     },
-                    "name": "black.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-109.53",
-                    "verticalAlign": "middle",
-                    "dataend": "00:59.98",
-                    "src": "Medias/Photos/close_but.png",
-                    "zIndex": 2,
-                    "id": "E4E4A076-AF28-87EC-3632-9A085E9931ED",
-                    "mediaHeight": 240,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 240,
                     "scales": true,
-                    "duration": "00:59.98",
-                    "centerX": "264.62",
-                    "width": "33.41",
-                    "height": "33.41",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "0A44E8DB-1C70-2C32-15E9-9A08FCAD33EE",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "close_but.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "id": "47AEA548-4525-5F2A-8DA0-8C79600D2B62"
-        },
-        "2B7ACE01-5145-5614-48C5-4800C32EB005": {
-            "hideInMindmap": false,
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "pass filastrocca",
-            "color": "rgba(0,0,0,1)",
-            "iframes": [
-                {
-                    "centerY": "136.25",
-                    "dataend": "01:01.00",
-                    "scales": true,
-                    "duration": "01:01.00",
+                    "duration": "01:01.43",
                     "centerX": "-0.06",
                     "width": "333.67",
-                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"Frida Kahlo\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"F5D6208C-9D87-45B7-3ECE-9BC019E8BC95\");\r\t\t} else if (x==\"frida kahlo\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"F5D6208C-9D87-45B7-3ECE-9BC019E8BC95\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
+                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"Emmeline Pankhurst\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"14C340A3-90B1-933C-4714-9BB7EC6E944B\");\r\t\t} else if (x==\"emmeline pankhurst\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"14C340A3-90B1-933C-4714-9BB7EC6E944B\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
                     "height": "333.67",
-                    "zIndex": 2,
-                    "id": "209AE376-2B20-6D18-7C4C-8BD58364DC26",
+                    "id": "B515994D-077F-2820-5775-8BE89013506F",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 636.3833333333333,
+            "x": 744.6833333333334,
             "size": "small",
-            "y": 13.400000000000004,
+            "y": 204.2,
             "backgroundColor": "rgba(0,0,0,0.65)",
             "duration": 60,
             "images": [
@@ -3261,8 +3558,8 @@ klynt.data = {
                     "verticalAlign": "middle",
                     "dataend": "01:01.00",
                     "src": "Medias/Photos/black.jpg",
-                    "zIndex": 0,
-                    "id": "9C6B7F62-C111-D842-7BC5-9A06C113CB9C",
+                    "zIndex": 4,
+                    "id": "23025B2B-E038-FA63-8F0E-9A05B8D8500D",
                     "mediaHeight": 1080,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
@@ -3283,8 +3580,8 @@ klynt.data = {
                     "verticalAlign": "middle",
                     "dataend": "01:01.00",
                     "src": "Medias/Photos/close_but.png",
-                    "zIndex": 1,
-                    "id": "AACB16D0-60A9-844A-2686-9A06C11DC9FB",
+                    "zIndex": 6,
+                    "id": "EBDDADF4-F55F-1481-E6FB-9A05B8D8A7C2",
                     "mediaHeight": 240,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
@@ -3303,2131 +3600,14 @@ klynt.data = {
                         "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
                         "linkType": "linkToSequence",
                         "transition": "fade",
-                        "id": "8C3A40A2-35FA-086E-F210-9A0958180F69",
+                        "id": "9ABB4072-DF50-CF82-EAA6-9A0977A1832C",
                         "color": "rgba(0,0,0,1)"
                     },
                     "name": "close_but.png",
                     "databegin": "00:00.00"
                 }
             ],
-            "id": "2B7ACE01-5145-5614-48C5-4800C32EB005"
-        },
-        "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/1__3_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "cristiana",
-            "images": [
-                {
-                    "dataend": "01:01.00",
-                    "zIndex": 0,
-                    "id": "360715EF-8F88-FB40-AB5B-8BE751D5E74B",
-                    "name": "1__3_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/1__3_.png",
-                    "duration": "01:01.00",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -285.2166666666667,
-            "size": "small",
-            "y": 708.35,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60,
-            "color": "rgba(0,0,0,1)",
-            "id": "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA",
-            "buttons": [
-                {
-                    "centerY": "1.00",
-                    "right": "16.00",
-                    "dataend": "01:01.00",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "EBBC51DE-21C4-2072-EDFF-8BE7B96E60BC",
-                        "targetSequence": "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.00",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "2ABB0022-B298-3964-3DAE-8BE79BAB11CC",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "2A804658-B99C-9281-5E6F-905A7FBC7E07": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/close_but.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "bomb pass!",
-            "images": [
-                {
-                    "centerY": "-150.79",
-                    "verticalAlign": "middle",
-                    "dataend": "01:01.13",
-                    "src": "Medias/Photos/close_but.png",
-                    "zIndex": 1,
-                    "id": "37BC569D-7814-4DC4-171E-97DE2F965055",
-                    "mediaHeight": 240,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 240,
-                    "scales": true,
-                    "duration": "01:01.13",
-                    "centerX": "272.36",
-                    "width": "31.31",
-                    "height": "31.31",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "10F7169D-7622-F311-CC9B-8C898432F0FA",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "C1EA9A70-88AC-D6D8-5A58-97E1DCCD2EEF",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "close_but.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "iframes": [
-                {
-                    "centerY": "-0.56",
-                    "dataend": "01:01.13",
-                    "zIndex": 0,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "scales": true,
-                    "duration": "01:01.13",
-                    "centerX": "2.00",
-                    "width": "551.67",
-                    "code": "<!DOCTYPE html>\r<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r  <!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r  <script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r<script src=\"https://unpkg.com/sweetalert/dist/sweetalert.min.js\"></script>\r\r  <!-- STILE -->\r\r  <style>\r    .swal-button {\r     background-color: red;\r     }\r    .swal-button:not([disabled]):hover {\r     background-color: lightgrey;\r     }\r  #frame-body {\r          justify-content: center;\r          align-items: center;\r  }\r  input {\r    width: 100%;\r    border-top-color: transparent;\r    border-left-color: transparent;\r    border-right-color: transparent;\r    font-size: 24px;\r  }\r  input:focus{\r    outline: none;\r  }\r\r  #frame-body button {\r    padding: 8px;\r    margin-top: 16px;\r    border: none;\r    background: #08457e;\r    color: white;\r    width: 90%\r  }\r\r    .main {\r        margin: 30px;\r        width: 160%;\r        justify-content: center;\r        text-align: center;\r        color: rgb(161, 34, 34);\r        line-height: normal;\r        font-size: 45px;\r        font-family: \"Verdana\";\r    }\r\r    .digit {\r        color: rgb(231, 228, 218);\r        background: rgb(161, 34, 34);\r        margin: 4px;\r        font-size: 45px;\r    }\r\r    .colon {\r        position: relative;\r        top: -.1em;\r    }\r\r    .text {\r        font-size: 15px;\r    }\r  </style>\r\r</head>\r<body>\r<div id=\"frame-body\" style=\"display:flex; flex-direction: column;\">\r<div class=\"main\" style=\"display:flex;flex-direction: row;\">\r    <div>\r        <div>\r            <span class=\"digit\" id=\"time-d-0\">0</span><span class=\"digit\" id=\"time-d-1\">1</span>\r        </div>\r        <div class=\"text\">\r            DAYS\r        </div>\r    </div>\r    <div class=\"colon\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digit\" id=\"time-h-0\">2</span><span class=\"digit\" id=\"time-h-1\">0</span>\r        </div>\r        <div class=\"text\">\r            HOURS\r        </div>\r    </div>\r    <div class=\"colon\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digit\" id=\"time-m-0\">1</span><span class=\"digit\" id=\"time-m-1\">4</span>\r        </div>\r        <div class=\"text\">\r            MINUTES\r        </div>\r    </div>\r    <div class=\"colon\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digit\" id=\"time-s-0\">0</span><span class=\"digit\" id=\"time-s-1\">3</span>\r        </div>\r        <div class=\"text\">\r            SECONDS\r        </div>\r    </div>\r</div>\r\r<br>\r<br>\r<br>\r\r  <form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\" style=\"\r    display: flex;\r    flex-direction: column;\r    align-content: center;\r    align-items: center;\rwidth:90%;\r\">\r    <input type=\"text\" name=\"keypass\" autocomplete=\"off\"/>\r  </form>\r\r  <button onclick=\"validateForm()\" style=\"\">UNLOCK</button>\r  <!-- CODICE JAVASCRIPT -->\r\r\r  <script>\r\r  function validateForm() {\r    var x = document.forms[\"myForm\"][\"keypass\"].value;\r    if (x == \"La rivoluzione è adesso\") {\r      console.log(\"risposta esatta\");\r                 swal(\"La bomba è stata disinnescata!\", \"Congratulations!\");\r      //KlyntAPI.commands.openOverlay(\"B2F3FC02-4949-5E4E-35A2-96AB6BDED0CA\");\r                clearInterval(timer_1);\r    } else if (x==\"La rivoluzione e adesso\") {\r      console.log(\"risposta esatta\");\r                 swal(\"La bomba è stata disinnescata!\", \"Congratulations!\");\r      //KlyntAPI.commands.openOverlay(\"B2F3FC02-4949-5E4E-35A2-96AB6BDED0CA\");\r                clearInterval(timer_1);\r    } else if (x==\"\") {\r      alert(\"Enter The Password\");\r    } else {\r      alert(\"The password entered is incorrect! try again (harder)\");\r      console.log(\"risposta sbagliata\")\r    }\r  }\r\r  </script>\r\r\r</div>\r</body></html>",
-                    "height": "306.98",
-                    "style": {
-                        "backgroundColor": "rgba(0,0,0,0.7)"
-                    },
-                    "id": "5EA4CEB7-A2FA-D6E4-504C-90633D3B3EB9",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 430.7833333333333,
-            "size": "small",
-            "y": -231.05,
-            "backgroundColor": "rgba(0,0,0,0.8)",
-            "duration": 60.13,
-            "color": "rgba(0,0,0,1)",
-            "id": "2A804658-B99C-9281-5E6F-905A7FBC7E07"
-        },
-        "D2E5F960-15ED-0ACF-430C-8BBA06043299": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/5__1_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "rago5",
-            "images": [
-                {
-                    "dataend": "01:01.00",
-                    "zIndex": 1,
-                    "id": "4C0CE667-0FDB-275F-7E62-8BBA825731D1",
-                    "name": "5__1_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/5__1_.png",
-                    "duration": "01:01.00",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 101.53333333333336,
-            "size": "small",
-            "y": -101.95,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60,
-            "color": "rgba(0,0,0,1)",
-            "id": "D2E5F960-15ED-0ACF-430C-8BBA06043299",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:01.00",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "223829FE-BF62-B2B9-B4F9-8BBB3DB5F3B7",
-                        "targetSequence": "528CB9D8-E74A-3DA9-58D0-8BBA1389F5F1",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.00",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "06F779AF-C1FC-45CE-0890-8BBB00C76E91",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/2__3_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "cris 2",
-            "images": [
-                {
-                    "dataend": "01:01.08",
-                    "zIndex": 0,
-                    "id": "B77FAC94-B07E-B947-57C9-8BE60A6026B2",
-                    "name": "2__3_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/2__3_.png",
-                    "duration": "01:01.08",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -351,
-            "size": "small",
-            "y": 737.7,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60.07816932292473,
-            "color": "rgba(0,0,0,1)",
-            "id": "CD75DE0A-7805-8CA3-12A2-8BDB0FA5BFB6",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:01.08",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "7CF33226-D05E-722B-42B9-8BE6AC869242",
-                        "targetSequence": "66677701-2361-B2C1-C7B8-8BDB130CFA81",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.08",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "621C641F-F304-80F4-21C2-8BE633FD3B7B",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:01.08",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "084D2D72-7EA2-A94C-299A-8BE68CF70FD1",
-                        "targetSequence": "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.08",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "B59348A7-12F8-11BB-0273-8BE646680035",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "15A25693-157D-D1AA-2998-8BCD56B2AED9": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/1__2_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "filastrocca",
-            "images": [
-                {
-                    "dataend": "01:00.98",
-                    "zIndex": 0,
-                    "id": "CE072A12-A4D2-8C76-1627-8BD40E45ED50",
-                    "name": "1__2_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/1__2_.png",
-                    "duration": "01:00.98",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -293.45,
-            "size": "small",
-            "y": 270.55,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.97927521704337,
-            "color": "rgba(0,0,0,1)",
-            "id": "15A25693-157D-D1AA-2998-8BCD56B2AED9",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:00.98",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "49829637-B060-699F-B468-8BD48D609581",
-                        "targetSequence": "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "AD1F09E0-CC40-8675-0E20-8BD46EFAC040",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "815E0BC0-0F28-92DE-731D-487354FFEA40": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/1.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "pdf libro",
-            "images": [
-                {
-                    "dataend": "00:30.00",
-                    "zIndex": 0,
-                    "id": "66B13211-DFDC-BD93-E36A-489352A206C7",
-                    "name": "1.png",
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/1.png",
-                    "style": {
-                        "rotation": -0.2500494336506961
-                    },
-                    "duration": "00:30.00",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 1393.5333333333333,
-            "size": "small",
-            "y": 40.2,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 28.97597302323777,
-            "color": "rgba(0,0,0,1)",
-            "id": "815E0BC0-0F28-92DE-731D-487354FFEA40",
-            "buttons": [
-                {
-                    "centerY": "-2.00",
-                    "right": "33.00",
-                    "dataend": "00:30.00",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "1150AD83-90A0-F4AC-E4ED-489F6D8123B3",
-                        "targetSequence": "0518DD68-2E72-EC9E-FE04-48961971D4C2",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "00:30.00",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "32FA0FC0-2DA8-8538-77D1-4895173058A1",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "36E3789A-C5A7-1477-39E6-8C5568338A90": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/IMG_1__1_.PNG.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "scum1",
-            "images": [
-                {
-                    "dataend": "01:00.93",
-                    "zIndex": 0,
-                    "id": "57139DFF-F90E-DF7D-FF68-8C5641954D32",
-                    "name": "IMG_1__1_.PNG",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/IMG_1__1_.PNG",
-                    "duration": "01:00.93",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 229.53333333333333,
-            "size": "small",
-            "y": 775.1,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.929828164102695,
-            "color": "rgba(0,0,0,1)",
-            "id": "36E3789A-C5A7-1477-39E6-8C5568338A90",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:00.93",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "F40E6BF6-8761-E982-3643-8C59D005D833",
-                        "targetSequence": "4E385C63-C2A9-00E4-C397-8C559459A747",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.93",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "58325894-6F92-DECF-409E-8C5679B86B05",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/8__1_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "cris 8",
-            "images": [
-                {
-                    "dataend": "01:00.98",
-                    "zIndex": 1,
-                    "id": "6CE13580-D055-581E-F1B0-8BDC2A86943A",
-                    "name": "8__1_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/8__1_.png",
-                    "duration": "01:00.98",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -401.95,
-            "size": "small",
-            "y": 720.7,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.97927521704337,
-            "color": "rgba(0,0,0,1)",
-            "id": "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:00.98",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "50D1B010-406C-7616-A164-8BDE3BE425C2",
-                        "targetSequence": "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "5D86840E-8316-2722-E898-8BDCF426CA9B",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "59BD6F4D-C29F-17DE-57AB-4896351CA517": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/3.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "libro 3",
-            "images": [
-                {
-                    "dataend": "01:00.98",
-                    "zIndex": 1,
-                    "id": "CC70569D-A82E-6DDB-FFC3-48E2B95277F1",
-                    "name": "3.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/3.png",
-                    "duration": "01:00.98",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 1137.95,
-            "size": "small",
-            "y": 94.55,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.97927521704337,
-            "color": "rgba(0,0,0,1)",
-            "id": "59BD6F4D-C29F-17DE-57AB-4896351CA517",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:00.98",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "5E69CF40-6C12-D384-B12C-48E19B7CEE6E",
-                        "targetSequence": "F93F6391-EBF8-8862-DF24-4896231AAB3B",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "0A314C79-8DF4-1A38-C62B-48E18000598F",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:00.98",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 3,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "C6556B7A-005A-1287-172F-489D7F06A21E",
-                        "targetSequence": "0518DD68-2E72-EC9E-FE04-48961971D4C2",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "1491F77F-7720-0A75-1273-489D4EA10FCF",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "6283401B-0F8F-3D7D-1935-8BDB1622C13A": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/4__3_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "cris 4",
-            "images": [
-                {
-                    "dataend": "01:00.98",
-                    "zIndex": 0,
-                    "id": "F264D761-BA08-D4D0-0CA7-8BE3B5EED3E8",
-                    "name": "4__3_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/4__3_.png",
-                    "duration": "01:00.98",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -398.8,
-            "size": "small",
-            "y": 752,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.97927521704337,
-            "color": "rgba(0,0,0,1)",
-            "id": "6283401B-0F8F-3D7D-1935-8BDB1622C13A",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:00.98",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "D0320D48-2185-4A1D-4FBF-8BE47C1DB4EE",
-                        "targetSequence": "B87A9EBD-DA4E-E1FC-5B64-8BDB18E8A2BD",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "F5E8DC1C-1851-ACC8-A106-8BE3FD5FD813",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:00.98",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "6F5CC03F-00C8-A4CA-613F-8BE45C6086AC",
-                        "targetSequence": "66677701-2361-B2C1-C7B8-8BDB130CFA81",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "F57667D8-829B-907B-79C7-8BE43DD22031",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "0518DD68-2E72-EC9E-FE04-48961971D4C2": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/2.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "libro 2",
-            "images": [
-                {
-                    "dataend": "01:01.00",
-                    "zIndex": 0,
-                    "id": "B7EEEF41-1CBE-BF2E-D14F-4896CB80610D",
-                    "name": "2.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/2.png",
-                    "duration": "01:01.00",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 1206.1,
-            "size": "small",
-            "y": 20.950000000000003,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60,
-            "color": "rgba(0,0,0,1)",
-            "id": "0518DD68-2E72-EC9E-FE04-48961971D4C2",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:01.00",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "FDE375C4-C61F-AF90-56E1-48E428467596",
-                        "targetSequence": "815E0BC0-0F28-92DE-731D-487354FFEA40",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.00",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "D02566D1-76C3-6F8A-7641-489EA90FAA9D",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:01.00",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "3B75DBE3-BE50-91A7-F791-489F25293EFC",
-                        "targetSequence": "59BD6F4D-C29F-17DE-57AB-4896351CA517",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.00",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "A569F63C-D4BF-A9CB-8EB3-489E9321A08F",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "10F7169D-7622-F311-CC9B-8C898432F0FA": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/web-browser-mockup-ready-for-a-content-vector-17683450.jpg.jpg",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "rago0",
-            "images": [
-                {
-                    "mediaHeight": 1080,
-                    "dataend": "01:00.19",
-                    "mediaWidth": 1920,
-                    "zIndex": 0,
-                    "duration": "01:00.19",
-                    "name": "rago.jpg",
-                    "fitToWindow": true,
-                    "src": "Medias/Photos/rago.jpg",
-                    "scaleMode": "letterbox",
-                    "id": "2AA81720-347D-123A-4587-9B5AC05F4026",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-252.80",
-                    "dataend": "01:03.18",
-                    "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 2,
-                    "id": "D986F316-27EB-24EA-1E1A-9B5CF884A5D4",
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 94,
-                    "scales": true,
-                    "duration": "01:03.18",
-                    "centerX": "-238.78",
-                    "width": "45.78",
-                    "height": "498.04",
-                    "style": {
-                        "rotation": -90.06561301264
-                    },
-                    "name": "gray.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-252.80",
-                    "dataend": "01:03.18",
-                    "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 3,
-                    "id": "26E94431-F04C-186B-CED1-9B5CF88487EC",
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 94,
-                    "scales": true,
-                    "duration": "01:03.06",
-                    "centerX": "238.37",
-                    "width": "45.78",
-                    "height": "498.04",
-                    "style": {
-                        "rotation": -90.06561301264
-                    },
-                    "name": "gray.jpg",
-                    "databegin": "00:00.12"
-                },
-                {
-                    "centerY": "-252.49",
-                    "verticalAlign": "middle",
-                    "dataend": "01:00.19",
-                    "src": "Medias/Photos/logo_2.png",
-                    "zIndex": 4,
-                    "id": "423613E1-6030-3D27-FF78-9B5CF884C9D1",
-                    "mediaHeight": 916,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1107,
-                    "scales": true,
-                    "duration": "01:00.19",
-                    "centerX": "-456.38",
-                    "width": "45.01",
-                    "height": "37.25",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "D3C373F7-363E-F77E-2064-9BCB16E5BB17",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "logo_2.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-251.30",
-                    "verticalAlign": "middle",
-                    "dataend": "01:00.19",
-                    "src": "Medias/Photos/next.png",
-                    "zIndex": 9,
-                    "id": "CC623FE3-ACA7-209F-CB64-9B5CF87A601C",
-                    "mediaHeight": 512,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 512,
-                    "scales": true,
-                    "duration": "01:00.19",
-                    "centerX": "458.08",
-                    "width": "36.84",
-                    "height": "36.84",
-                    "name": "next.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-1.22",
-                    "dataend": "01:00.19",
-                    "src": "Medias/Photos/1__1_.png",
-                    "zIndex": 13,
-                    "id": "87870A66-ED67-A848-CCD0-8C8DF220A197",
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 1080,
-                    "scales": true,
-                    "duration": "01:00.19",
-                    "centerX": "-198.26",
-                    "width": "246.47",
-                    "height": "246.47",
-                    "name": "1__1_.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "162.53",
-                    "dataend": "01:00.19",
-                    "src": "Medias/Photos/digital_clock.png",
-                    "zIndex": 14,
-                    "id": "27F169A6-9E36-6DE0-898B-957D3686052A",
-                    "mediaHeight": 150,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 450,
-                    "scales": true,
-                    "duration": "01:00.19",
-                    "centerX": "195.48",
-                    "width": "173.09",
-                    "height": "57.68",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "53BF5688-866A-FA67-8114-957DB73AD341",
-                        "targetSequence": "2A804658-B99C-9281-5E6F-905A7FBC7E07",
-                        "closeButton": false,
-                        "automaticClose": false,
-                        "transition": "none",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "name": "digital_clock.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 107.48333333333336,
-            "size": "small",
-            "y": -224,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.18672017658774,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "-250.17",
-                    "dataend": "01:00.19",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
-                    "name": "Text 1",
-                    "zIndex": 5,
-                    "scales": true,
-                    "duration": "01:00.19",
-                    "centerX": "-417.24",
-                    "width": "31.70",
-                    "height": "65.16",
-                    "style": {
-                        "opacity": 0.6,
-                        "rotation": -0.624913061495752
-                    },
-                    "id": "09646AA9-38F6-51CF-34A1-9B5CF87AFA09",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-264.84",
-                    "dataend": "01:00.19",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
-                    "name": "Text 2",
-                    "zIndex": 7,
-                    "link": {
-                        "targetURL": "https://drive.google.com/file/d/1-AnR3DnN3pwiWp49PgThSqMST03K6cYi/view?usp=sharing",
-                        "linkType": "linkToURL",
-                        "id": "5D9403B4-E311-7CCE-CDCF-9B5CF87AD376",
-                        "window": "_blank"
-                    },
-                    "scales": true,
-                    "duration": "01:00.19",
-                    "centerX": "-369.52",
-                    "width": "93.52",
-                    "height": "66.73",
-                    "style": {
-                        "opacity": 0.9,
-                        "rotation": 0.11876919004907344
-                    },
-                    "id": "BAA64214-5460-8B9D-6033-9B5CF87A5406",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-250.86",
-                    "dataend": "01:00.19",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
-                    "name": "Text 2",
-                    "zIndex": 8,
-                    "scales": true,
-                    "duration": "01:00.19",
-                    "centerX": "-367.71",
-                    "width": "86.86",
-                    "height": "66.73",
-                    "style": {
-                        "opacity": 0.9,
-                        "rotation": -0.20106128413900912
-                    },
-                    "id": "2CC9ADCB-A9A9-522C-3635-9B5CF87A346B",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-228.01",
-                    "dataend": "01:00.19",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"font-family: Montserrat;\">Back to the Home</span></p>",
-                    "name": "Text 5",
-                    "zIndex": 10,
-                    "scales": true,
-                    "duration": "01:00.19",
-                    "centerX": "398.12",
-                    "width": "166.84",
-                    "height": "66.73",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "D5F7709C-50A0-EF82-8868-9B5CF87A486A",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "id": "A86A288B-CF8C-C6EA-B049-9B5CF87ABCB9",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "165.72",
-                    "dataend": "01:00.19",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-size: 11pt; font-family: Montserrat; color: #111111;\">Mostra i Contenuti</span></p>",
-                    "name": "Text 6",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 11,
-                    "scales": true,
-                    "duration": "01:00.07",
-                    "centerX": "-186.34",
-                    "width": "163.66",
-                    "height": "66.73",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "2A1857AC-2A91-B0A0-3705-9B5D224F1BE9",
-                        "targetSequence": "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "fade",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "id": "AEE60813-82B5-B94C-096D-9B5CF87ACE9C",
-                    "databegin": "00:00.12"
-                },
-                {
-                    "right": "120.02",
-                    "dataend": "01:00.28",
-                    "left": "489.95",
-                    "type": "txt-Title-1",
-                    "text": "",
-                    "name": "Text 1",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 15,
-                    "top": "333.00",
-                    "scales": false,
-                    "duration": "01:00.28",
-                    "height": "106.00",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "2A804658-B99C-9281-5E6F-905A7FBC7E07",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "E86726E7-9262-5CA8-FEC8-9B5C518AA4A5",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "id": "0EE269CB-2EBE-E539-D95B-9B5BBA39918C",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "id": "10F7169D-7622-F311-CC9B-8C898432F0FA"
-        },
-        "14C340A3-90B1-933C-4714-9BB7EC6E944B": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/next.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "cris 0",
-            "images": [
-                {
-                    "mediaHeight": 1080,
-                    "dataend": "01:00.00",
-                    "mediaWidth": 1920,
-                    "zIndex": 1,
-                    "duration": "01:00.00",
-                    "name": "book.jpg",
-                    "fitToWindow": true,
-                    "src": "Medias/Photos/book.jpg",
-                    "scaleMode": "letterbox",
-                    "id": "6882C4E0-4C63-9A02-389A-9BB842E37DE1",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-252.80",
-                    "dataend": "00:59.88",
-                    "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 2,
-                    "id": "6FF5E34D-38DB-BD46-ED76-9BB842E3855E",
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 94,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-238.78",
-                    "width": "45.78",
-                    "height": "498.04",
-                    "style": {
-                        "rotation": -90.06561301264
-                    },
-                    "name": "gray.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-252.80",
-                    "dataend": "00:59.88",
-                    "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 3,
-                    "id": "3F5F16CF-38CB-C107-3F60-9BB8B939D583",
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 94,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "238.37",
-                    "width": "45.78",
-                    "height": "498.04",
-                    "style": {
-                        "rotation": -90.06561301264
-                    },
-                    "name": "gray.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-252.49",
-                    "verticalAlign": "middle",
-                    "dataend": "00:59.88",
-                    "src": "Medias/Photos/logo_2.png",
-                    "zIndex": 4,
-                    "id": "569B12E9-88F4-7380-5FAB-9BB842E3BC29",
-                    "mediaHeight": 916,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1107,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-456.38",
-                    "width": "45.01",
-                    "height": "37.25",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "B1CA5764-BB48-DF88-5797-9BC76083985D",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "logo_2.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-251.30",
-                    "verticalAlign": "middle",
-                    "dataend": "00:59.75",
-                    "src": "Medias/Photos/next.png",
-                    "zIndex": 9,
-                    "id": "73F362FF-6457-95D8-CC25-9BB842E3F038",
-                    "mediaHeight": 512,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 512,
-                    "scales": true,
-                    "duration": "00:59.75",
-                    "centerX": "458.08",
-                    "width": "36.84",
-                    "height": "36.84",
-                    "name": "next.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-250.51",
-                    "verticalAlign": "middle",
-                    "dataend": "01:00.00",
-                    "src": "Medias/Photos/xy.png",
-                    "zIndex": 12,
-                    "id": "599B5A42-5BBA-1E7F-5B0E-9BB992B92D08",
-                    "mediaHeight": 568,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 635,
-                    "scales": true,
-                    "duration": "01:00.00",
-                    "centerX": "-296.37",
-                    "width": "37.24",
-                    "height": "33.31",
-                    "link": {
-                        "targetURL": "https://drive.google.com/file/d/1rRBCiRVhV1J1MsEaiBc_Pd9opXfclhhW/view?usp=sharing",
-                        "linkType": "linkToURL",
-                        "id": "45661EE2-4C9C-F997-D822-9BB992B913F7",
-                        "window": "_blank"
-                    },
-                    "name": "xy.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-4.93",
-                    "verticalAlign": "middle",
-                    "dataend": "00:40.94",
-                    "src": "Medias/Photos/1__3_.png",
-                    "zIndex": 13,
-                    "id": "FA541102-4048-BF14-1A04-9BBA9AD1C936",
-                    "mediaHeight": 1080,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1080,
-                    "scales": true,
-                    "duration": "00:40.94",
-                    "centerX": "1.51",
-                    "width": "254.52",
-                    "height": "254.52",
-                    "name": "1__3_.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -595.6,
-            "size": "medium",
-            "y": 840.2,
-            "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 39.94014771824458,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "-250.17",
-                    "dataend": "01:00.00",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
-                    "name": "Text 1",
-                    "zIndex": 5,
-                    "scales": true,
-                    "duration": "01:00.00",
-                    "centerX": "-417.24",
-                    "width": "31.70",
-                    "height": "65.16",
-                    "style": {
-                        "opacity": 0.6,
-                        "rotation": -0.624913061495752
-                    },
-                    "id": "11CBD6A7-57F8-091D-AAD5-9BB842E32AF4",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-251.18",
-                    "dataend": "00:59.88",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
-                    "name": "Text 1",
-                    "zIndex": 6,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-319.38",
-                    "width": "13.87",
-                    "height": "65.16",
-                    "style": {
-                        "opacity": 0.6,
-                        "rotation": -0.6249130709331597
-                    },
-                    "id": "4E47CBDA-0539-3318-29DA-9BB842E35F15",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-264.84",
-                    "dataend": "00:59.88",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
-                    "name": "Text 2",
-                    "zIndex": 7,
-                    "link": {
-                        "targetURL": "https://drive.google.com/file/d/1-AnR3DnN3pwiWp49PgThSqMST03K6cYi/view?usp=sharing",
-                        "linkType": "linkToURL",
-                        "id": "98AF4A9B-D3BB-B20E-C688-9BB842E3B4BF",
-                        "window": "_blank"
-                    },
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-369.52",
-                    "width": "93.52",
-                    "height": "66.73",
-                    "style": {
-                        "opacity": 0.9,
-                        "rotation": 0.11876919004907344
-                    },
-                    "id": "103DBFF4-8AF9-A66F-203D-9BB842E33B7D",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-250.86",
-                    "dataend": "00:59.88",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
-                    "name": "Text 2",
-                    "zIndex": 8,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-367.71",
-                    "width": "86.86",
-                    "height": "66.73",
-                    "style": {
-                        "opacity": 0.9,
-                        "rotation": -0.20106128413900912
-                    },
-                    "id": "8CE431C5-66A2-2770-09D1-9BB842E3F117",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-228.01",
-                    "dataend": "00:59.88",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"font-family: Montserrat;\">Back to the Home</span></p>",
-                    "name": "Text 5",
-                    "zIndex": 10,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "398.12",
-                    "width": "166.84",
-                    "height": "66.73",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "089639E5-C7DD-AC11-1CD4-9BB842E39570",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "id": "E7908B26-1759-AE44-C85B-9BB842E31ACA",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "162.39",
-                    "dataend": "01:00.00",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-size: 11pt; font-family: Montserrat; color: #111111;\">Mostra i Contenuti</span></p>",
-                    "name": "Text 6",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 11,
-                    "scales": true,
-                    "duration": "01:00.00",
-                    "centerX": "9.42",
-                    "width": "163.66",
-                    "height": "66.73",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "5347E38E-E4C2-A54F-C3F0-9BB842E34DFD",
-                        "targetSequence": "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "fade",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "id": "EB86BCCD-86A3-DF84-463F-9BB842E3BC2A",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "id": "14C340A3-90B1-933C-4714-9BB7EC6E944B"
-        },
-        "56AA51B4-07BB-170A-F7A3-8BDB09790F79": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/6__1_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "cris 6",
-            "images": [
-                {
-                    "dataend": "01:00.98",
-                    "zIndex": 0,
-                    "id": "9FA41B63-D601-1FFE-C3C3-8BE0E7B9B964",
-                    "name": "6__1_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/6__1_.png",
-                    "duration": "01:00.98",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -411.85,
-            "size": "small",
-            "y": 789.4,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 59.97927521704337,
-            "color": "rgba(0,0,0,1)",
-            "id": "56AA51B4-07BB-170A-F7A3-8BDB09790F79",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:00.98",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "47DD764C-A74C-1C69-9A6E-8BE1C912B74A",
-                        "targetSequence": "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "D0F63574-C770-54BC-F585-8BE13CA5B5E9",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:00.98",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "D510AA3E-E948-13D5-EA00-8BE1B41B94D9",
-                        "targetSequence": "B87A9EBD-DA4E-E1FC-5B64-8BDB18E8A2BD",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:00.98",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "0EA2A712-9F52-2DF0-5F22-8BE191C4F533",
-                    "databegin": "00:00.00"
-                }
-            ]
-        },
-        "F5D6208C-9D87-45B7-3ECE-9BC019E8BC95": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/book.jpg.jpg",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "Filastrocca 0",
-            "images": [
-                {
-                    "mediaHeight": 1080,
-                    "dataend": "01:00.00",
-                    "mediaWidth": 1920,
-                    "zIndex": 1,
-                    "duration": "01:00.00",
-                    "name": "book.jpg",
-                    "fitToWindow": true,
-                    "src": "Medias/Photos/book.jpg",
-                    "scaleMode": "letterbox",
-                    "id": "80DBF9EA-2CEE-3085-7A47-9BC1F007E1BB",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-252.80",
-                    "dataend": "00:59.88",
-                    "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 2,
-                    "id": "DD6A2729-A3A7-14B7-25A9-9BC1F00A48F6",
-                    "mediaHeight": 1080,
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 94,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-238.78",
-                    "width": "45.78",
-                    "height": "498.04",
-                    "style": {
-                        "rotation": -90.06561301264
-                    },
-                    "name": "gray.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-252.80",
-                    "dataend": "00:59.88",
-                    "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 3,
-                    "id": "E9211DC4-3FFA-AD83-5D82-9BC1F00A94D8",
-                    "mediaHeight": 1080,
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "scaleMode": "letterbox",
-                    "mediaWidth": 94,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "238.37",
-                    "width": "45.78",
-                    "height": "498.04",
-                    "style": {
-                        "rotation": -90.06561301264
-                    },
-                    "name": "gray.jpg",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-252.49",
-                    "verticalAlign": "middle",
-                    "dataend": "00:59.88",
-                    "src": "Medias/Photos/logo_2.png",
-                    "zIndex": 4,
-                    "id": "2DA1D938-E4AE-FBBC-60DA-9BC1F00B8B57",
-                    "mediaHeight": 916,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1107,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-456.38",
-                    "width": "45.01",
-                    "height": "37.25",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "8959558B-8FAB-74AD-E66F-9BC72EA9E736",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "name": "logo_2.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-251.30",
-                    "verticalAlign": "middle",
-                    "dataend": "00:59.75",
-                    "src": "Medias/Photos/next.png",
-                    "zIndex": 9,
-                    "id": "5E800666-667F-58B8-EFB2-9BC1F00D3947",
-                    "mediaHeight": 512,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 512,
-                    "scales": true,
-                    "duration": "00:59.75",
-                    "centerX": "458.08",
-                    "width": "36.84",
-                    "height": "36.84",
-                    "name": "next.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-253.37",
-                    "verticalAlign": "middle",
-                    "dataend": "01:01.23",
-                    "src": "Medias/Photos/x-y.png",
-                    "zIndex": 13,
-                    "id": "2C7831EE-70B9-6A2A-C12A-9BC3B644344C",
-                    "mediaHeight": 657,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 531,
-                    "scales": true,
-                    "duration": "01:01.23",
-                    "centerX": "-297.04",
-                    "width": "30.02",
-                    "height": "37.14",
-                    "link": {
-                        "targetURL": "https://drive.google.com/file/d/1TsWvaSW6qhfUN1wFHlpJxQ3P2QBX6X28/view?usp=drive_link",
-                        "linkType": "linkToURL",
-                        "id": "E1B04A9A-E5BC-8E30-2150-9BC42C77A78C",
-                        "window": "_blank"
-                    },
-                    "name": "x-y.png",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-3.92",
-                    "verticalAlign": "middle",
-                    "dataend": "01:01.23",
-                    "src": "Medias/Photos/1__2_.png",
-                    "zIndex": 14,
-                    "id": "51978A17-4083-BBD3-7D70-9BC4CA66A1F1",
-                    "mediaHeight": 1080,
-                    "horizontalAlign": "center",
-                    "scaleMode": "zoom",
-                    "mediaWidth": 1080,
-                    "scales": true,
-                    "duration": "01:01.23",
-                    "centerX": "1.64",
-                    "width": "263.78",
-                    "height": "263.78",
-                    "name": "1__2_.png",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": -620.6,
-            "size": "medium",
-            "y": 324,
-            "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 60.226510481746764,
-            "color": "rgba(0,0,0,1)",
-            "texts": [
-                {
-                    "centerY": "-250.17",
-                    "dataend": "01:00.00",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
-                    "name": "Text 1",
-                    "zIndex": 5,
-                    "scales": true,
-                    "duration": "01:00.00",
-                    "centerX": "-417.24",
-                    "width": "31.70",
-                    "height": "65.16",
-                    "style": {
-                        "opacity": 0.6,
-                        "rotation": -0.624913061495752
-                    },
-                    "id": "AA067DD9-9EED-5AB6-E578-9BC1F00C3F20",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-251.18",
-                    "dataend": "00:59.88",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
-                    "name": "Text 1",
-                    "zIndex": 6,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-319.38",
-                    "width": "13.87",
-                    "height": "65.16",
-                    "style": {
-                        "opacity": 0.6,
-                        "rotation": -0.6249130709331597
-                    },
-                    "id": "C5BBF377-1F4B-287A-B096-9BC1F00C8E6F",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-264.84",
-                    "dataend": "00:59.88",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
-                    "name": "Text 2",
-                    "zIndex": 7,
-                    "link": {
-                        "targetURL": "https://drive.google.com/file/d/1-AnR3DnN3pwiWp49PgThSqMST03K6cYi/view?usp=sharing",
-                        "linkType": "linkToURL",
-                        "id": "489B0379-EF94-DDD4-E4B5-9BC1F00C40CE",
-                        "window": "_blank"
-                    },
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-369.52",
-                    "width": "93.52",
-                    "height": "66.73",
-                    "style": {
-                        "opacity": 0.9,
-                        "rotation": 0.11876919004907344
-                    },
-                    "id": "839203E4-5219-81F1-78A0-9BC1F00C9FED",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-250.86",
-                    "dataend": "00:59.88",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
-                    "name": "Text 2",
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 8,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "-367.71",
-                    "width": "86.86",
-                    "height": "66.73",
-                    "style": {
-                        "opacity": 0.9,
-                        "rotation": -0.20106128413900912
-                    },
-                    "id": "E16B53A2-5BF9-8E85-B292-9BC1F00CD604",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "-228.01",
-                    "dataend": "00:59.88",
-                    "type": "txt-Paragraph",
-                    "text": "<p><span style=\"font-family: Montserrat;\">Back to the Home</span></p>",
-                    "name": "Text 5",
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 10,
-                    "scales": true,
-                    "duration": "00:59.88",
-                    "centerX": "398.12",
-                    "width": "166.84",
-                    "height": "66.73",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "ECDBDA9B-6036-B960-15E7-9BC1F00DA2E4",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "id": "697A50A2-CD6A-09F1-A2E8-9BC1F00DDB1B",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "162.39",
-                    "dataend": "01:00.00",
-                    "type": "txt-Title-1",
-                    "text": "<p><span style=\"font-size: 11pt; font-family: Montserrat; color: #111111;\">Mostra i Contenuti</span></p>",
-                    "name": "Text 6",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "transitionOut": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 11,
-                    "scales": true,
-                    "duration": "01:00.00",
-                    "centerX": "9.42",
-                    "width": "163.66",
-                    "height": "66.73",
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "D056F853-4C2F-4F77-8EFF-9BC1F00EBBB3",
-                        "targetSequence": "15A25693-157D-D1AA-2998-8BCD56B2AED9",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "fade",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "id": "AD50526D-60B7-4D77-3A3D-9BC1F00D2A1A",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "id": "F5D6208C-9D87-45B7-3ECE-9BC019E8BC95"
-        },
-        "4E385C63-C2A9-00E4-C397-8C559459A747": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/IMG_2__1_.PNG.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "scum2",
-            "images": [
-                {
-                    "dataend": "01:01.03",
-                    "zIndex": 0,
-                    "id": "344FF7B1-D59B-93C0-7271-8C58601F1AA3",
-                    "name": "IMG_2__1_.PNG",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/IMG_2__1_.PNG",
-                    "duration": "01:01.03",
-                    "databegin": "00:00.00"
-                }
-            ],
-            "x": 245.58333333333337,
-            "size": "small",
-            "y": 836.7,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60.02872226998405,
-            "color": "rgba(0,0,0,1)",
-            "id": "4E385C63-C2A9-00E4-C397-8C559459A747",
-            "buttons": [
-                {
-                    "centerY": "0.00",
-                    "right": "16.00",
-                    "dataend": "01:01.03",
-                    "type": "klynt-arrow-right",
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "EE173E0C-888A-B5EE-3532-8C59331C9F95",
-                        "targetSequence": "1705EC52-A475-5E29-57BC-8C55971B5B88",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideLeft",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.03",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "2CECF9C0-A8DA-0154-6298-8C58B0D387ED",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "centerY": "0.00",
-                    "dataend": "01:01.03",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
-                    "zIndex": 2,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "id": "7DC1B0D6-2151-CE6D-16DD-8C58FBBFE8AE",
-                        "targetSequence": "36E3789A-C5A7-1477-39E6-8C5568338A90",
-                        "closeButton": true,
-                        "automaticClose": false,
-                        "transition": "slideRight",
-                        "color": "rgba(0,0,0,1)",
-                        "closeButtonTop": 16,
-                        "closeButtonRight": 16,
-                        "automaticTransition": false,
-                        "pauseParent": true,
-                        "linkType": "linkToSequence",
-                        "overlay": true,
-                        "controlDX": 0
-                    },
-                    "scales": false,
-                    "duration": "01:01.03",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "10D1177B-A523-0F68-10D5-8C589CE482C8",
-                    "databegin": "00:00.00"
-                }
-            ]
+            "id": "D606CE06-B07E-4ACA-A771-8BE7F7A7C87F"
         },
         "182A6CCD-D69D-CF06-67F0-8BEEDFD0E947": {
             "hideInMindmap": false,
@@ -5803,32 +3983,416 @@ klynt.data = {
             ],
             "id": "182A6CCD-D69D-CF06-67F0-8BEEDFD0E947"
         },
-        "84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572": {
+        "34F97018-87B0-F5C9-9939-48D9D265877F": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/book.jpg.jpg",
+            "thumbnail": "Medias/Thumbnails/8.png.png",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "libro 0",
+            "title": "libro 8",
+            "images": [
+                {
+                    "dataend": "01:00.88",
+                    "zIndex": 0,
+                    "id": "39B0F252-518D-2690-90B6-48DE7602F245",
+                    "name": "8.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/8.png",
+                    "duration": "01:00.88",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1126.35,
+            "size": "small",
+            "y": 315.6,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.880381111162016,
+            "color": "rgba(0,0,0,1)",
+            "id": "34F97018-87B0-F5C9-9939-48D9D265877F",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:00.88",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "96592349-CDBF-34DC-997F-48DF415FD341",
+                        "targetSequence": "C47E5444-6DED-850C-E561-48D9B63EA851",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.88",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "C42330FD-B2FB-B800-A236-48DEF008A97A",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:00.88",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "DA8ED167-4D48-6946-D7CA-48DF24D7BB69",
+                        "targetSequence": "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.88",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "925B5ECE-DFC7-5A9F-35D8-48DEE143D678",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/7__2_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "cris 7",
+            "images": [
+                {
+                    "dataend": "01:01.28",
+                    "zIndex": 0,
+                    "id": "B0FD89F0-F3F2-4AD8-EB2D-8BDFD9CCB86F",
+                    "name": "7__2_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/7__2_.png",
+                    "duration": "01:01.28",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -405.3,
+            "size": "small",
+            "y": 695.6,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60.27595753468744,
+            "color": "rgba(0,0,0,1)",
+            "id": "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.28",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "CF9F7AFC-C101-2172-C74A-8BE06D11264A",
+                        "targetSequence": "56AA51B4-07BB-170A-F7A3-8BDB09790F79",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.28",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "720A7641-53F5-DD77-E1CA-8BE013D81C82",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:01.28",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "B0770A61-566C-ECAA-9B9C-8BE082967977",
+                        "targetSequence": "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.28",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "53A8E572-EDAF-4EB2-0591-8BE030C123AC",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "45683511-65EC-E2CC-1CEA-8BC5A4FE801B": {
+            "hideInMindmap": false,
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "pass rago",
+            "color": "rgba(0,0,0,1)",
+            "iframes": [
+                {
+                    "centerY": "93.00",
+                    "dataend": "01:01.00",
+                    "scales": true,
+                    "duration": "01:01.00",
+                    "centerX": "0.00",
+                    "width": "339.00",
+                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"malala yousafzai\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"10F7169D-7622-F311-CC9B-8C898432F0FA\");\r\t\t} else if (x==\"Malala Yousafzai\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"10F7169D-7622-F311-CC9B-8C898432F0FA\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
+                    "height": "245.00",
+                    "zIndex": 3,
+                    "id": "9F4B4E3F-2571-7D17-33E0-8BC649514992",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 651.3333333333334,
+            "size": "small",
+            "y": 103.65,
+            "backgroundColor": "rgba(0,0,0,0.65)",
+            "duration": 60,
+            "images": [
+                {
+                    "centerY": "18.77",
+                    "verticalAlign": "middle",
+                    "dataend": "01:01.00",
+                    "src": "Medias/Photos/black.jpg",
+                    "zIndex": 1,
+                    "id": "B105090E-E91C-CAEB-B66B-9A07798DA934",
+                    "mediaHeight": 1080,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1024,
+                    "scales": true,
+                    "duration": "01:01.00",
+                    "centerX": "-0.00",
+                    "width": "532.00",
+                    "height": "269.00",
+                    "style": {
+                        "opacity": 0.7
+                    },
+                    "name": "black.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-109.53",
+                    "verticalAlign": "middle",
+                    "dataend": "01:01.00",
+                    "src": "Medias/Photos/close_but.png",
+                    "zIndex": 2,
+                    "id": "E4EA9270-5848-BA1E-4888-9A07798D2A53",
+                    "mediaHeight": 240,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 240,
+                    "scales": true,
+                    "duration": "01:01.00",
+                    "centerX": "264.62",
+                    "width": "33.41",
+                    "height": "33.41",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "448179AA-9A0E-C8D0-1128-9A0934060C78",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "name": "close_but.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "id": "45683511-65EC-E2CC-1CEA-8BC5A4FE801B"
+        },
+        "2B7ACE01-5145-5614-48C5-4800C32EB005": {
+            "hideInMindmap": false,
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "pass filastrocca",
+            "color": "rgba(0,0,0,1)",
+            "iframes": [
+                {
+                    "centerY": "136.25",
+                    "dataend": "01:01.00",
+                    "scales": true,
+                    "duration": "01:01.00",
+                    "centerX": "-0.06",
+                    "width": "333.67",
+                    "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<!-- STILE -->\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r\t</form>\r\r\t<button onclick=\"validateForm()\">UNLOCK</button>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value;\r\t\tif (x == \"Frida Kahlo\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"F5D6208C-9D87-45B7-3ECE-9BC019E8BC95\");\r\t\t} else if (x==\"frida kahlo\") {\r\t\t\tconsole.log(\"risposta esatta\")\r\t\t\tKlyntAPI.commands.openSequence(\"F5D6208C-9D87-45B7-3ECE-9BC019E8BC95\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"Enter The Password\");\r\t\t} else {\r\t\t\talert(\"The password entered is incorrect! try again (harder)\");\r\t\t\tconsole.log(\"risposta sbagliata\")\r\t\t}\r\t}\r\t</script>\r</body>\r</html>\r",
+                    "height": "333.67",
+                    "zIndex": 2,
+                    "id": "209AE376-2B20-6D18-7C4C-8BD58364DC26",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 636.3833333333333,
+            "size": "small",
+            "y": 13.400000000000004,
+            "backgroundColor": "rgba(0,0,0,0.65)",
+            "duration": 60,
+            "images": [
+                {
+                    "centerY": "18.77",
+                    "verticalAlign": "middle",
+                    "dataend": "01:01.00",
+                    "src": "Medias/Photos/black.jpg",
+                    "zIndex": 0,
+                    "id": "9C6B7F62-C111-D842-7BC5-9A06C113CB9C",
+                    "mediaHeight": 1080,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1024,
+                    "scales": true,
+                    "duration": "01:01.00",
+                    "centerX": "-0.00",
+                    "width": "532.00",
+                    "height": "269.00",
+                    "style": {
+                        "opacity": 0.7
+                    },
+                    "name": "black.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-109.53",
+                    "verticalAlign": "middle",
+                    "dataend": "01:01.00",
+                    "src": "Medias/Photos/close_but.png",
+                    "zIndex": 1,
+                    "id": "AACB16D0-60A9-844A-2686-9A06C11DC9FB",
+                    "mediaHeight": 240,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 240,
+                    "scales": true,
+                    "duration": "01:01.00",
+                    "centerX": "264.62",
+                    "width": "33.41",
+                    "height": "33.41",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "8C3A40A2-35FA-086E-F210-9A0958180F69",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "name": "close_but.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "id": "2B7ACE01-5145-5614-48C5-4800C32EB005"
+        },
+        "14C340A3-90B1-933C-4714-9BB7EC6E944B": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/next.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "cris 0",
             "images": [
                 {
                     "mediaHeight": 1080,
                     "dataend": "01:00.00",
                     "mediaWidth": 1920,
-                    "zIndex": 0,
+                    "zIndex": 1,
                     "duration": "01:00.00",
                     "name": "book.jpg",
                     "fitToWindow": true,
                     "src": "Medias/Photos/book.jpg",
                     "scaleMode": "letterbox",
-                    "id": "7E752575-7DC8-BCD5-C13F-9BAA46835283",
+                    "id": "6882C4E0-4C63-9A02-389A-9BB842E37DE1",
                     "databegin": "00:00.00"
                 },
                 {
                     "centerY": "-252.80",
                     "dataend": "00:59.88",
                     "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 1,
-                    "id": "92C108E6-C1A6-811D-1D80-9BAB2D905B77",
+                    "zIndex": 2,
+                    "id": "6FF5E34D-38DB-BD46-ED76-9BB842E3855E",
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
                     "mediaWidth": 94,
@@ -5847,8 +4411,8 @@ klynt.data = {
                     "centerY": "-252.80",
                     "dataend": "00:59.88",
                     "src": "Medias/Photos/gray.jpg",
-                    "zIndex": 2,
-                    "id": "687CD9E3-3130-B872-F07F-9BAB2D9096D5",
+                    "zIndex": 3,
+                    "id": "3F5F16CF-38CB-C107-3F60-9BB8B939D583",
                     "mediaHeight": 1080,
                     "scaleMode": "letterbox",
                     "mediaWidth": 94,
@@ -5868,8 +4432,8 @@ klynt.data = {
                     "verticalAlign": "middle",
                     "dataend": "00:59.88",
                     "src": "Medias/Photos/logo_2.png",
-                    "zIndex": 3,
-                    "id": "20081E18-B9EA-B960-7D09-9BAB2D9088F8",
+                    "zIndex": 4,
+                    "id": "569B12E9-88F4-7380-5FAB-9BB842E3BC29",
                     "mediaHeight": 916,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
@@ -5888,7 +4452,7 @@ klynt.data = {
                         "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
                         "linkType": "linkToSequence",
                         "transition": "fade",
-                        "id": "6A02FCAF-D08B-C4BE-4F9F-9BC7840504DA",
+                        "id": "B1CA5764-BB48-DF88-5797-9BC76083985D",
                         "color": "rgba(0,0,0,1)"
                     },
                     "name": "logo_2.png",
@@ -5899,8 +4463,8 @@ klynt.data = {
                     "verticalAlign": "middle",
                     "dataend": "00:59.75",
                     "src": "Medias/Photos/next.png",
-                    "zIndex": 8,
-                    "id": "24F01F33-909C-B25B-5557-9BAB2D902246",
+                    "zIndex": 9,
+                    "id": "73F362FF-6457-95D8-CC25-9BB842E3F038",
                     "mediaHeight": 512,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
@@ -5914,55 +4478,55 @@ klynt.data = {
                     "databegin": "00:00.00"
                 },
                 {
-                    "centerY": "-252.64",
+                    "centerY": "-250.51",
                     "verticalAlign": "middle",
                     "dataend": "01:00.00",
-                    "src": "Medias/Photos/-xy.png",
-                    "zIndex": 11,
-                    "id": "D1663BB2-4682-DAA0-2627-9BABD91140E4",
-                    "mediaHeight": 638,
+                    "src": "Medias/Photos/xy.png",
+                    "zIndex": 12,
+                    "id": "599B5A42-5BBA-1E7F-5B0E-9BB992B92D08",
+                    "mediaHeight": 568,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
-                    "mediaWidth": 549,
+                    "mediaWidth": 635,
                     "scales": true,
                     "duration": "01:00.00",
-                    "centerX": "-294.82",
-                    "width": "27.77",
-                    "height": "32.27",
+                    "centerX": "-296.37",
+                    "width": "37.24",
+                    "height": "33.31",
                     "link": {
-                        "targetURL": "https://drive.google.com/file/d/11s4c4E0rLzP9AsV4BGM45Ga0jkV0NCxe/view?usp=drive_link",
+                        "targetURL": "https://drive.google.com/file/d/1rRBCiRVhV1J1MsEaiBc_Pd9opXfclhhW/view?usp=sharing",
                         "linkType": "linkToURL",
-                        "id": "B56DB530-84DD-991C-AC93-9BAC61CC5497",
+                        "id": "45661EE2-4C9C-F997-D822-9BB992B913F7",
                         "window": "_blank"
                     },
-                    "name": "-xy.png",
+                    "name": "xy.png",
                     "databegin": "00:00.00"
                 },
                 {
-                    "centerY": "-3.88",
+                    "centerY": "-4.93",
                     "verticalAlign": "middle",
-                    "dataend": "01:00.00",
-                    "src": "Medias/Photos/1.png",
-                    "zIndex": 12,
-                    "id": "3EA3613D-FCA8-47BA-3C50-9BAD14B38D4B",
+                    "dataend": "00:40.94",
+                    "src": "Medias/Photos/1__3_.png",
+                    "zIndex": 13,
+                    "id": "FA541102-4048-BF14-1A04-9BBA9AD1C936",
                     "mediaHeight": 1080,
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
                     "mediaWidth": 1080,
                     "scales": true,
-                    "duration": "01:00.00",
-                    "centerX": "1.73",
-                    "width": "257.17",
-                    "height": "257.17",
-                    "name": "1.png",
+                    "duration": "00:40.94",
+                    "centerX": "1.51",
+                    "width": "254.52",
+                    "height": "254.52",
+                    "name": "1__3_.png",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 1405.15,
+            "x": -595.6,
             "size": "medium",
-            "y": -137.9,
+            "y": 840.2,
             "backgroundColor": "rgba(0,0,0,1)",
-            "duration": 54.24341707592463,
+            "duration": 39.94014771824458,
             "color": "rgba(0,0,0,1)",
             "texts": [
                 {
@@ -5971,7 +4535,7 @@ klynt.data = {
                     "type": "txt-Title-1",
                     "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
                     "name": "Text 1",
-                    "zIndex": 4,
+                    "zIndex": 5,
                     "scales": true,
                     "duration": "01:00.00",
                     "centerX": "-417.24",
@@ -5981,7 +4545,7 @@ klynt.data = {
                         "opacity": 0.6,
                         "rotation": -0.624913061495752
                     },
-                    "id": "61E01D88-5AC4-65EC-EE1A-9BAB2D908E46",
+                    "id": "11CBD6A7-57F8-091D-AAD5-9BB842E32AF4",
                     "databegin": "00:00.00"
                 },
                 {
@@ -5990,7 +4554,7 @@ klynt.data = {
                     "type": "txt-Title-1",
                     "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
                     "name": "Text 1",
-                    "zIndex": 5,
+                    "zIndex": 6,
                     "scales": true,
                     "duration": "00:59.88",
                     "centerX": "-319.38",
@@ -6000,7 +4564,7 @@ klynt.data = {
                         "opacity": 0.6,
                         "rotation": -0.6249130709331597
                     },
-                    "id": "65461A13-77FC-4AF3-D35E-9BAB2D904F24",
+                    "id": "4E47CBDA-0539-3318-29DA-9BB842E35F15",
                     "databegin": "00:00.00"
                 },
                 {
@@ -6009,11 +4573,11 @@ klynt.data = {
                     "type": "txt-Title-1",
                     "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
                     "name": "Text 2",
-                    "zIndex": 6,
+                    "zIndex": 7,
                     "link": {
                         "targetURL": "https://drive.google.com/file/d/1-AnR3DnN3pwiWp49PgThSqMST03K6cYi/view?usp=sharing",
                         "linkType": "linkToURL",
-                        "id": "BAAE43B3-42DB-AEF6-1E76-9BAB2D90E7F7",
+                        "id": "98AF4A9B-D3BB-B20E-C688-9BB842E3B4BF",
                         "window": "_blank"
                     },
                     "scales": true,
@@ -6025,7 +4589,7 @@ klynt.data = {
                         "opacity": 0.9,
                         "rotation": 0.11876919004907344
                     },
-                    "id": "6B963DC0-114C-80B4-35FD-9BAB2D90C233",
+                    "id": "103DBFF4-8AF9-A66F-203D-9BB842E33B7D",
                     "databegin": "00:00.00"
                 },
                 {
@@ -6034,7 +4598,7 @@ klynt.data = {
                     "type": "txt-Title-1",
                     "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
                     "name": "Text 2",
-                    "zIndex": 7,
+                    "zIndex": 8,
                     "scales": true,
                     "duration": "00:59.88",
                     "centerX": "-367.71",
@@ -6044,7 +4608,7 @@ klynt.data = {
                         "opacity": 0.9,
                         "rotation": -0.20106128413900912
                     },
-                    "id": "AEA23377-8FFB-55FB-D982-9BAB2D90BA7A",
+                    "id": "8CE431C5-66A2-2770-09D1-9BB842E3F117",
                     "databegin": "00:00.00"
                 },
                 {
@@ -6053,7 +4617,7 @@ klynt.data = {
                     "type": "txt-Paragraph",
                     "text": "<p><span style=\"font-family: Montserrat;\">Back to the Home</span></p>",
                     "name": "Text 5",
-                    "zIndex": 9,
+                    "zIndex": 10,
                     "scales": true,
                     "duration": "00:59.88",
                     "centerX": "398.12",
@@ -6068,10 +4632,10 @@ klynt.data = {
                         "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
                         "linkType": "linkToSequence",
                         "transition": "fade",
-                        "id": "5D81DFEA-00A6-2FAD-143F-9BAB2D90C347",
+                        "id": "089639E5-C7DD-AC11-1CD4-9BB842E39570",
                         "color": "rgba(0,0,0,1)"
                     },
-                    "id": "36EF10A6-AD36-E70B-B9E3-9BAB2D9066C1",
+                    "id": "E7908B26-1759-AE44-C85B-9BB842E31ACA",
                     "databegin": "00:00.00"
                 },
                 {
@@ -6084,9 +4648,9 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "zIndex": 10,
+                    "zIndex": 11,
                     "scales": true,
-                    "duration": "00:59.88",
+                    "duration": "01:00.00",
                     "centerX": "9.42",
                     "width": "163.66",
                     "height": "66.73",
@@ -6094,8 +4658,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "2BF5CCC7-43E6-4B24-2B1A-9BAB2D9022BE",
-                        "targetSequence": "815E0BC0-0F28-92DE-731D-487354FFEA40",
+                        "id": "5347E38E-E4C2-A54F-C3F0-9BB842E34DFD",
+                        "targetSequence": "F5FBB2B4-5749-D588-0E12-8BDB0C6711AA",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "fade",
@@ -6108,64 +4672,401 @@ klynt.data = {
                         "overlay": true,
                         "controlDX": 0
                     },
-                    "id": "331F72C2-86A9-1501-4082-9BAB2D90C6A6",
-                    "databegin": "00:00.12"
-                }
-            ],
-            "id": "84E5B8F8-CF1D-4396-1E95-9BA9D9DBD572"
-        },
-        "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040": {
-            "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/2__2_.png.png",
-            "hideThumbnailInMindmap": false,
-            "hideTitleInMindmap": false,
-            "title": "filastrocca 2",
-            "images": [
-                {
-                    "dataend": "01:01.23",
-                    "zIndex": 0,
-                    "id": "99542B2F-6129-B93F-4A17-8BD325D8C528",
-                    "name": "2__2_.png",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "fitToWindow": true,
-                    "mediaWidth": 1080,
-                    "mediaHeight": 1080,
-                    "scaleMode": "letterbox",
-                    "src": "Medias/Photos/2__2_.png",
-                    "duration": "01:01.23",
+                    "id": "EB86BCCD-86A3-DF84-463F-9BB842E3BC2A",
                     "databegin": "00:00.00"
                 }
             ],
-            "x": -277.2,
-            "size": "small",
-            "y": 324.85,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 60.226510481746764,
-            "color": "rgba(0,0,0,1)",
-            "id": "EABE3FBB-C358-68BB-CD15-8BCD5D7F1040",
-            "buttons": [
+            "id": "14C340A3-90B1-933C-4714-9BB7EC6E944B"
+        },
+        "2A804658-B99C-9281-5E6F-905A7FBC7E07": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/close_but.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "bomb pass!",
+            "images": [
                 {
-                    "centerY": "0.00",
-                    "dataend": "01:01.23",
-                    "left": "16.00",
-                    "type": "klynt-arrow-left",
+                    "centerY": "-150.79",
+                    "verticalAlign": "middle",
+                    "dataend": "01:01.13",
+                    "src": "Medias/Photos/close_but.png",
                     "zIndex": 1,
+                    "id": "37BC569D-7814-4DC4-171E-97DE2F965055",
+                    "mediaHeight": 240,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 240,
+                    "scales": true,
+                    "duration": "01:01.13",
+                    "centerX": "272.36",
+                    "width": "31.31",
+                    "height": "31.31",
                     "link": {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "0FB11B69-B13A-71C3-8CC3-8BD3D45D67A1",
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "10F7169D-7622-F311-CC9B-8C898432F0FA",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "C1EA9A70-88AC-D6D8-5A58-97E1DCCD2EEF",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "name": "close_but.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "iframes": [
+                {
+                    "centerY": "-0.56",
+                    "dataend": "01:01.13",
+                    "zIndex": 0,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "scales": true,
+                    "duration": "01:01.13",
+                    "centerX": "2.00",
+                    "width": "551.67",
+                    "code": "<!DOCTYPE html>\r<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r  <!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r  <script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r<script src=\"https://unpkg.com/sweetalert/dist/sweetalert.min.js\"></script>\r\r  <!-- STILE -->\r\r  <style>\r    .swal-button {\r     background-color: red;\r     }\r    .swal-button:not([disabled]):hover {\r     background-color: lightgrey;\r     }\r  #frame-body {\r          justify-content: center;\r          align-items: center;\r  }\r  input {\r    width: 100%;\r    border-top-color: transparent;\r    border-left-color: transparent;\r    border-right-color: transparent;\r    font-size: 24px;\r  }\r  input:focus{\r    outline: none;\r  }\r\r  #frame-body button {\r    padding: 8px;\r    margin-top: 16px;\r    border: none;\r    background: #08457e;\r    color: white;\r    width: 90%\r  }\r\r    .main {\r        margin: 30px;\r        width: 160%;\r        justify-content: center;\r        text-align: center;\r        color: rgb(161, 34, 34);\r        line-height: normal;\r        font-size: 45px;\r        font-family: \"Verdana\";\r    }\r\r    .digit {\r        color: rgb(231, 228, 218);\r        background: rgb(161, 34, 34);\r        margin: 4px;\r        font-size: 45px;\r    }\r\r    .colon {\r        position: relative;\r        top: -.1em;\r    }\r\r    .text {\r        font-size: 15px;\r    }\r  </style>\r\r</head>\r<body>\r<div id=\"frame-body\" style=\"display:flex; flex-direction: column;\">\r<div class=\"main\" style=\"display:flex;flex-direction: row;\">\r    <div>\r        <div>\r            <span class=\"digit\" id=\"time-d-0\">0</span><span class=\"digit\" id=\"time-d-1\">1</span>\r        </div>\r        <div class=\"text\">\r            DAYS\r        </div>\r    </div>\r    <div class=\"colon\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digit\" id=\"time-h-0\">2</span><span class=\"digit\" id=\"time-h-1\">0</span>\r        </div>\r        <div class=\"text\">\r            HOURS\r        </div>\r    </div>\r    <div class=\"colon\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digit\" id=\"time-m-0\">1</span><span class=\"digit\" id=\"time-m-1\">4</span>\r        </div>\r        <div class=\"text\">\r            MINUTES\r        </div>\r    </div>\r    <div class=\"colon\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digit\" id=\"time-s-0\">0</span><span class=\"digit\" id=\"time-s-1\">3</span>\r        </div>\r        <div class=\"text\">\r            SECONDS\r        </div>\r    </div>\r</div>\r\r<br>\r<br>\r<br>\r\r  <form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\" style=\"\r    display: flex;\r    flex-direction: column;\r    align-content: center;\r    align-items: center;\rwidth:90%;\r\">\r    <input type=\"text\" name=\"keypass\" autocomplete=\"off\"/>\r  </form>\r\r  <button onclick=\"validateForm()\" style=\"\">UNLOCK</button>\r  <!-- CODICE JAVASCRIPT -->\r\r\r  <script>\r\r  function validateForm() {\r    var x = document.forms[\"myForm\"][\"keypass\"].value;\r    if (x == \"La rivoluzione è adesso\") {\r      console.log(\"risposta esatta\");\r                 swal(\"La bomba è stata disinnescata!\", \"Congratulations!\");\r      //KlyntAPI.commands.openOverlay(\"B2F3FC02-4949-5E4E-35A2-96AB6BDED0CA\");\r                clearInterval(timer_1);\r    } else if (x==\"La rivoluzione e adesso\") {\r      console.log(\"risposta esatta\");\r                 swal(\"La bomba è stata disinnescata!\", \"Congratulations!\");\r      //KlyntAPI.commands.openOverlay(\"B2F3FC02-4949-5E4E-35A2-96AB6BDED0CA\");\r                clearInterval(timer_1);\r    } else if (x==\"\") {\r      alert(\"Enter The Password\");\r    } else {\r      alert(\"The password entered is incorrect! try again (harder)\");\r      console.log(\"risposta sbagliata\")\r    }\r  }\r\r  </script>\r\r\r</div>\r</body></html>",
+                    "height": "306.98",
+                    "style": {
+                        "backgroundColor": "rgba(0,0,0,0.7)"
+                    },
+                    "id": "5EA4CEB7-A2FA-D6E4-504C-90633D3B3EB9",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 430.73333333333335,
+            "size": "small",
+            "y": -231.05,
+            "backgroundColor": "rgba(0,0,0,0.8)",
+            "duration": 60.13,
+            "color": "rgba(0,0,0,1)",
+            "id": "2A804658-B99C-9281-5E6F-905A7FBC7E07"
+        },
+        "F5D6208C-9D87-45B7-3ECE-9BC019E8BC95": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/book.jpg.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "Filastrocca 0",
+            "images": [
+                {
+                    "mediaHeight": 1080,
+                    "dataend": "01:00.00",
+                    "mediaWidth": 1920,
+                    "zIndex": 1,
+                    "duration": "01:00.00",
+                    "name": "book.jpg",
+                    "fitToWindow": true,
+                    "src": "Medias/Photos/book.jpg",
+                    "scaleMode": "letterbox",
+                    "id": "80DBF9EA-2CEE-3085-7A47-9BC1F007E1BB",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.80",
+                    "dataend": "00:59.88",
+                    "src": "Medias/Photos/gray.jpg",
+                    "zIndex": 2,
+                    "id": "DD6A2729-A3A7-14B7-25A9-9BC1F00A48F6",
+                    "mediaHeight": 1080,
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 94,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-238.78",
+                    "width": "45.78",
+                    "height": "498.04",
+                    "style": {
+                        "rotation": -90.06561301264
+                    },
+                    "name": "gray.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.80",
+                    "dataend": "00:59.88",
+                    "src": "Medias/Photos/gray.jpg",
+                    "zIndex": 3,
+                    "id": "E9211DC4-3FFA-AD83-5D82-9BC1F00A94D8",
+                    "mediaHeight": 1080,
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 94,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "238.37",
+                    "width": "45.78",
+                    "height": "498.04",
+                    "style": {
+                        "rotation": -90.06561301264
+                    },
+                    "name": "gray.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-252.49",
+                    "verticalAlign": "middle",
+                    "dataend": "00:59.88",
+                    "src": "Medias/Photos/logo_2.png",
+                    "zIndex": 4,
+                    "id": "2DA1D938-E4AE-FBBC-60DA-9BC1F00B8B57",
+                    "mediaHeight": 916,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1107,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-456.38",
+                    "width": "45.01",
+                    "height": "37.25",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "8959558B-8FAB-74AD-E66F-9BC72EA9E736",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "name": "logo_2.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-251.30",
+                    "verticalAlign": "middle",
+                    "dataend": "00:59.75",
+                    "src": "Medias/Photos/next.png",
+                    "zIndex": 9,
+                    "id": "5E800666-667F-58B8-EFB2-9BC1F00D3947",
+                    "mediaHeight": 512,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 512,
+                    "scales": true,
+                    "duration": "00:59.75",
+                    "centerX": "458.08",
+                    "width": "36.84",
+                    "height": "36.84",
+                    "name": "next.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-253.37",
+                    "verticalAlign": "middle",
+                    "dataend": "01:01.23",
+                    "src": "Medias/Photos/x-y.png",
+                    "zIndex": 13,
+                    "id": "2C7831EE-70B9-6A2A-C12A-9BC3B644344C",
+                    "mediaHeight": 657,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 531,
+                    "scales": true,
+                    "duration": "01:01.23",
+                    "centerX": "-297.04",
+                    "width": "30.02",
+                    "height": "37.14",
+                    "link": {
+                        "targetURL": "https://drive.google.com/file/d/1TsWvaSW6qhfUN1wFHlpJxQ3P2QBX6X28/view?usp=drive_link",
+                        "linkType": "linkToURL",
+                        "id": "E1B04A9A-E5BC-8E30-2150-9BC42C77A78C",
+                        "window": "_blank"
+                    },
+                    "name": "x-y.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-3.92",
+                    "verticalAlign": "middle",
+                    "dataend": "01:01.23",
+                    "src": "Medias/Photos/1__2_.png",
+                    "zIndex": 14,
+                    "id": "51978A17-4083-BBD3-7D70-9BC4CA66A1F1",
+                    "mediaHeight": 1080,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1080,
+                    "scales": true,
+                    "duration": "01:01.23",
+                    "centerX": "1.64",
+                    "width": "263.78",
+                    "height": "263.78",
+                    "name": "1__2_.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -620.6,
+            "size": "medium",
+            "y": 324,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "duration": 60.226510481746764,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "-250.17",
+                    "dataend": "01:00.00",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
+                    "name": "Text 1",
+                    "zIndex": 5,
+                    "scales": true,
+                    "duration": "01:00.00",
+                    "centerX": "-417.24",
+                    "width": "31.70",
+                    "height": "65.16",
+                    "style": {
+                        "opacity": 0.6,
+                        "rotation": -0.624913061495752
+                    },
+                    "id": "AA067DD9-9EED-5AB6-E578-9BC1F00C3F20",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-251.18",
+                    "dataend": "00:59.88",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
+                    "name": "Text 1",
+                    "zIndex": 6,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-319.38",
+                    "width": "13.87",
+                    "height": "65.16",
+                    "style": {
+                        "opacity": 0.6,
+                        "rotation": -0.6249130709331597
+                    },
+                    "id": "C5BBF377-1F4B-287A-B096-9BC1F00C8E6F",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-264.84",
+                    "dataend": "00:59.88",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
+                    "name": "Text 2",
+                    "zIndex": 7,
+                    "link": {
+                        "targetURL": "https://drive.google.com/file/d/1-AnR3DnN3pwiWp49PgThSqMST03K6cYi/view?usp=sharing",
+                        "linkType": "linkToURL",
+                        "id": "489B0379-EF94-DDD4-E4B5-9BC1F00C40CE",
+                        "window": "_blank"
+                    },
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-369.52",
+                    "width": "93.52",
+                    "height": "66.73",
+                    "style": {
+                        "opacity": 0.9,
+                        "rotation": 0.11876919004907344
+                    },
+                    "id": "839203E4-5219-81F1-78A0-9BC1F00C9FED",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-250.86",
+                    "dataend": "00:59.88",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
+                    "name": "Text 2",
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 8,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-367.71",
+                    "width": "86.86",
+                    "height": "66.73",
+                    "style": {
+                        "opacity": 0.9,
+                        "rotation": -0.20106128413900912
+                    },
+                    "id": "E16B53A2-5BF9-8E85-B292-9BC1F00CD604",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-228.01",
+                    "dataend": "00:59.88",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"font-family: Montserrat;\">Back to the Home</span></p>",
+                    "name": "Text 5",
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 10,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "398.12",
+                    "width": "166.84",
+                    "height": "66.73",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "ECDBDA9B-6036-B960-15E7-9BC1F00DA2E4",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "697A50A2-CD6A-09F1-A2E8-9BC1F00DDB1B",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "162.39",
+                    "dataend": "01:00.00",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-size: 11pt; font-family: Montserrat; color: #111111;\">Mostra i Contenuti</span></p>",
+                    "name": "Text 6",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 11,
+                    "scales": true,
+                    "duration": "01:00.00",
+                    "centerX": "9.42",
+                    "width": "163.66",
+                    "height": "66.73",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "D056F853-4C2F-4F77-8EFF-9BC1F00EBBB3",
                         "targetSequence": "15A25693-157D-D1AA-2998-8BCD56B2AED9",
                         "closeButton": true,
                         "automaticClose": false,
-                        "transition": "slideRight",
+                        "transition": "fade",
                         "color": "rgba(0,0,0,1)",
                         "closeButtonTop": 16,
                         "closeButtonRight": 16,
@@ -6175,18 +5076,49 @@ klynt.data = {
                         "overlay": true,
                         "controlDX": 0
                     },
-                    "scales": false,
-                    "duration": "01:01.23",
-                    "width": "56.00",
-                    "height": "56.00",
-                    "label": "",
-                    "id": "D90F8DEA-41A9-3435-5AB5-8BD3668F9813",
+                    "id": "AD50526D-60B7-4D77-3A3D-9BC1F00D2A1A",
                     "databegin": "00:00.00"
-                },
+                }
+            ],
+            "id": "F5D6208C-9D87-45B7-3ECE-9BC019E8BC95"
+        },
+        "59BD6F4D-C29F-17DE-57AB-4896351CA517": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/3.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "libro 3",
+            "images": [
+                {
+                    "dataend": "01:00.98",
+                    "zIndex": 1,
+                    "id": "CC70569D-A82E-6DDB-FFC3-48E2B95277F1",
+                    "name": "3.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/3.png",
+                    "duration": "01:00.98",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1137.95,
+            "size": "small",
+            "y": 94.55,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.97927521704337,
+            "color": "rgba(0,0,0,1)",
+            "id": "59BD6F4D-C29F-17DE-57AB-4896351CA517",
+            "buttons": [
                 {
                     "centerY": "0.00",
                     "right": "16.00",
-                    "dataend": "01:01.23",
+                    "dataend": "01:00.98",
                     "type": "klynt-arrow-right",
                     "zIndex": 2,
                     "transitionIn": {
@@ -6197,8 +5129,8 @@ klynt.data = {
                         "hideInMindmap": false,
                         "controlDY": 0,
                         "hideArrowInMindmap": false,
-                        "id": "A032E2F8-9F39-61AB-0426-8BD3C06FF958",
-                        "targetSequence": "9CD26701-06BA-EF85-DC35-8BCD5A550C33",
+                        "id": "5E69CF40-6C12-D384-B12C-48E19B7CEE6E",
+                        "targetSequence": "F93F6391-EBF8-8862-DF24-4896231AAB3B",
                         "closeButton": true,
                         "automaticClose": false,
                         "transition": "slideLeft",
@@ -6212,11 +5144,458 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "scales": false,
-                    "duration": "01:01.23",
+                    "duration": "01:00.98",
                     "width": "56.00",
                     "height": "56.00",
                     "label": "",
-                    "id": "E712BC85-D564-6324-155D-8BD3A352E32D",
+                    "id": "0A314C79-8DF4-1A38-C62B-48E18000598F",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:00.98",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 3,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "C6556B7A-005A-1287-172F-489D7F06A21E",
+                        "targetSequence": "0518DD68-2E72-EC9E-FE04-48961971D4C2",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.98",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "1491F77F-7720-0A75-1273-489D4EA10FCF",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/1__1_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "rago",
+            "images": [
+                {
+                    "dataend": "01:01.00",
+                    "zIndex": 0,
+                    "id": "67190E89-091C-DCB3-7F93-8BB930BE2128",
+                    "name": "1__1_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/1__1_.png",
+                    "duration": "01:01.00",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 159.43333333333334,
+            "size": "small",
+            "y": -162.15,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60,
+            "color": "rgba(0,0,0,1)",
+            "id": "2CBE7927-92FE-0B82-3989-8BB7C3AA94F4",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "00:05.40",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "177DBDA2-84E8-814D-5089-8BC4842FAB4E",
+                        "targetSequence": "6F44C739-CA1F-902C-F125-8BBA0AF069FC",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "00:05.00",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "2D05C62D-00F3-198A-A002-8BC478A87DB9",
+                    "databegin": "00:00.40"
+                }
+            ]
+        },
+        "C47E5444-6DED-850C-E561-48D9B63EA851": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/7__1_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "libro 7",
+            "images": [
+                {
+                    "dataend": "01:00.93",
+                    "zIndex": 0,
+                    "id": "0B1F3C71-8F1F-2163-45D4-48DA508554CB",
+                    "name": "7__1_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/7__1_.png",
+                    "duration": "01:00.93",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1141.25,
+            "size": "small",
+            "y": 287.7,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.929828164102695,
+            "color": "rgba(0,0,0,1)",
+            "id": "C47E5444-6DED-850C-E561-48D9B63EA851",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:00.93",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "043183CB-AA71-EE2C-31CF-48E01133F57F",
+                        "targetSequence": "34F97018-87B0-F5C9-9939-48D9D265877F",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.93",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "B6151648-5571-BC46-19D8-48DA76532C2A",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:00.93",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "7A056A35-C9ED-8832-5C4A-48DB1D9ED50E",
+                        "targetSequence": "7B55A996-687A-7394-DA19-4896307F3E29",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.93",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "EC872B1A-00CF-3928-4153-48DAD00AF161",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "86E601AE-425F-4F7F-704E-95BF03D05DE7": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/US_.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "ABOUT US",
+            "images": [
+                {
+                    "centerY": "-166.84",
+                    "verticalAlign": "middle",
+                    "dataend": "00:38.83",
+                    "src": "Medias/Photos/close_but.png",
+                    "zIndex": 2,
+                    "id": "F7E75B3D-4550-609C-8756-95C333BE1FBB",
+                    "mediaHeight": 240,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 240,
+                    "scales": true,
+                    "duration": "00:38.83",
+                    "centerX": "316.93",
+                    "width": "35.59",
+                    "height": "35.59",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "CCEFA8BD-DC14-D127-D3D7-95C3666CF6ED",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "name": "close_but.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1121.8,
+            "size": "small",
+            "y": 840.95,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "videos": [
+                {
+                    "centerY": "21.50",
+                    "verticalAlign": "middle",
+                    "dataend": "00:37.83",
+                    "zIndex": 1,
+                    "frameRate": 0,
+                    "player": true,
+                    "mediaWidth": 480,
+                    "volume": 0.9,
+                    "scales": true,
+                    "name": "US_.mp4",
+                    "autoplay": true,
+                    "loop": false,
+                    "height": "640.41",
+                    "id": "38996F1F-7116-2EC0-9755-95C14BC5F506",
+                    "width": "377.21",
+                    "syncMaster": true,
+                    "mediaHeight": 816,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "scaleMode": "zoom",
+                    "duration": "00:37.83",
+                    "centerX": "1.32",
+                    "poster": "Medias/Posters/US_.mp4.jpg",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/US_.mp4"
+                        }
+                    ],
+                    "style": {
+                        "rotation": -90
+                    },
+                    "horizontalAlign": "center",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "duration": 37.825,
+            "color": "rgba(0,0,0,1)",
+            "id": "86E601AE-425F-4F7F-704E-95BF03D05DE7"
+        },
+        "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/9.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "libro 9",
+            "images": [
+                {
+                    "dataend": "01:01.00",
+                    "zIndex": 1,
+                    "id": "836D4DD0-47AF-9145-52FF-48DB954C6BE4",
+                    "name": "9.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/9.png",
+                    "duration": "01:01.00",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1153.1,
+            "size": "small",
+            "y": 357.45,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60,
+            "color": "rgba(0,0,0,1)",
+            "id": "4AFADB0A-4E4E-0AB0-87BA-48D9DB7E1F15",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.00",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "794B4098-408C-5A33-419B-48DC53BE2538",
+                        "targetSequence": "34F97018-87B0-F5C9-9939-48D9D265877F",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.00",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "A28A8E43-4F4F-1A12-1DCC-48DC2E03C761",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "06FDF404-8392-8B5D-02A5-8C5599E2EFD3": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/IMG_4__1_.PNG.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "scum4",
+            "images": [
+                {
+                    "dataend": "01:01.03",
+                    "zIndex": 0,
+                    "id": "C2A97087-F696-4346-26F5-8C5D11FF093F",
+                    "name": "IMG_4__1_.PNG",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/IMG_4__1_.PNG",
+                    "duration": "01:01.03",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 188.33333333333337,
+            "size": "small",
+            "y": 906.95,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60.02872226998405,
+            "color": "rgba(0,0,0,1)",
+            "id": "06FDF404-8392-8B5D-02A5-8C5599E2EFD3",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.03",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "56C746D5-770D-66F5-E8B9-8C5D9424C174",
+                        "targetSequence": "1705EC52-A475-5E29-57BC-8C55971B5B88",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.03",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "B0052196-6BB8-EFF6-FAD3-8C5D53FD5EB4",
                     "databegin": "00:00.00"
                 }
             ]
@@ -6327,6 +5706,623 @@ klynt.data = {
                     "databegin": "00:00.00"
                 }
             ]
+        },
+        "4E385C63-C2A9-00E4-C397-8C559459A747": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/IMG_2__1_.PNG.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "scum2",
+            "images": [
+                {
+                    "dataend": "01:01.03",
+                    "zIndex": 0,
+                    "id": "344FF7B1-D59B-93C0-7271-8C58601F1AA3",
+                    "name": "IMG_2__1_.PNG",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/IMG_2__1_.PNG",
+                    "duration": "01:01.03",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 245.58333333333337,
+            "size": "small",
+            "y": 836.7,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 60.02872226998405,
+            "color": "rgba(0,0,0,1)",
+            "id": "4E385C63-C2A9-00E4-C397-8C559459A747",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:01.03",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "EE173E0C-888A-B5EE-3532-8C59331C9F95",
+                        "targetSequence": "1705EC52-A475-5E29-57BC-8C55971B5B88",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.03",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "2CECF9C0-A8DA-0154-6298-8C58B0D387ED",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:01.03",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "7DC1B0D6-2151-CE6D-16DD-8C58FBBFE8AE",
+                        "targetSequence": "36E3789A-C5A7-1477-39E6-8C5568338A90",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:01.03",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "10D1177B-A523-0F68-10D5-8C589CE482C8",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/8__1_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "cris 8",
+            "images": [
+                {
+                    "dataend": "01:00.98",
+                    "zIndex": 1,
+                    "id": "6CE13580-D055-581E-F1B0-8BDC2A86943A",
+                    "name": "8__1_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/8__1_.png",
+                    "duration": "01:00.98",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -401.95,
+            "size": "small",
+            "y": 720.7,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.97927521704337,
+            "color": "rgba(0,0,0,1)",
+            "id": "F8FD2CFB-2F79-6151-A8DD-8BDB1BE09D24",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:00.98",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "50D1B010-406C-7616-A164-8BDE3BE425C2",
+                        "targetSequence": "65D57EA8-DD8B-5C7F-87DA-8BDB1F5AEB63",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.98",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "5D86840E-8316-2722-E898-8BDCF426CA9B",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "6283401B-0F8F-3D7D-1935-8BDB1622C13A": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/4__3_.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "cris 4",
+            "images": [
+                {
+                    "dataend": "01:00.98",
+                    "zIndex": 0,
+                    "id": "F264D761-BA08-D4D0-0CA7-8BE3B5EED3E8",
+                    "name": "4__3_.png",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/4__3_.png",
+                    "duration": "01:00.98",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": -398.8,
+            "size": "small",
+            "y": 752,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 59.97927521704337,
+            "color": "rgba(0,0,0,1)",
+            "id": "6283401B-0F8F-3D7D-1935-8BDB1622C13A",
+            "buttons": [
+                {
+                    "centerY": "0.00",
+                    "right": "16.00",
+                    "dataend": "01:00.98",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "D0320D48-2185-4A1D-4FBF-8BE47C1DB4EE",
+                        "targetSequence": "B87A9EBD-DA4E-E1FC-5B64-8BDB18E8A2BD",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.98",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "F5E8DC1C-1851-ACC8-A106-8BE3FD5FD813",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "0.00",
+                    "dataend": "01:00.98",
+                    "left": "16.00",
+                    "type": "klynt-arrow-left",
+                    "zIndex": 2,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "6F5CC03F-00C8-A4CA-613F-8BE45C6086AC",
+                        "targetSequence": "66677701-2361-B2C1-C7B8-8BDB130CFA81",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideRight",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "01:00.98",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "F57667D8-829B-907B-79C7-8BE43DD22031",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "815E0BC0-0F28-92DE-731D-487354FFEA40": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/1.png.png",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "pdf libro",
+            "images": [
+                {
+                    "dataend": "00:30.00",
+                    "zIndex": 0,
+                    "id": "66B13211-DFDC-BD93-E36A-489352A206C7",
+                    "name": "1.png",
+                    "fitToWindow": true,
+                    "mediaWidth": 1080,
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "src": "Medias/Photos/1.png",
+                    "style": {
+                        "rotation": -0.2500494336506961
+                    },
+                    "duration": "00:30.00",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 1393.5333333333333,
+            "size": "small",
+            "y": 40.2,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 28.97597302323777,
+            "color": "rgba(0,0,0,1)",
+            "id": "815E0BC0-0F28-92DE-731D-487354FFEA40",
+            "buttons": [
+                {
+                    "centerY": "-2.00",
+                    "right": "33.00",
+                    "dataend": "00:30.00",
+                    "type": "klynt-arrow-right",
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "1150AD83-90A0-F4AC-E4ED-489F6D8123B3",
+                        "targetSequence": "0518DD68-2E72-EC9E-FE04-48961971D4C2",
+                        "closeButton": true,
+                        "automaticClose": false,
+                        "transition": "slideLeft",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": false,
+                    "duration": "00:30.00",
+                    "width": "56.00",
+                    "height": "56.00",
+                    "label": "",
+                    "id": "32FA0FC0-2DA8-8538-77D1-4895173058A1",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
+        "EB5CFA9C-43E8-63C2-78BE-438AACE76916": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/school.jpg.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "Home",
+            "images": [
+                {
+                    "mediaHeight": 1080,
+                    "dataend": "00:55.36",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "duration": "00:55.36",
+                    "name": "main_bg.jpg",
+                    "fitToWindow": true,
+                    "src": "Medias/Photos/main_bg.jpg",
+                    "scaleMode": "letterbox",
+                    "id": "239B786A-2DD2-2D0E-F776-9B6866A98931",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "2.69",
+                    "dataend": "00:54.99",
+                    "src": "Medias/Photos/gray.jpg",
+                    "zIndex": 1,
+                    "id": "3DB8D295-6410-6DEA-9AD7-95948C449CA2",
+                    "mediaHeight": 1080,
+                    "scaleMode": "letterbox",
+                    "mediaWidth": 94,
+                    "scales": true,
+                    "duration": "00:54.99",
+                    "centerX": "-464.27",
+                    "width": "48.24",
+                    "height": "554.28",
+                    "name": "gray.jpg",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "25.20",
+                    "verticalAlign": "middle",
+                    "dataend": "00:59.88",
+                    "src": "Medias/Photos/INFO.png",
+                    "zIndex": 2,
+                    "id": "A708EA6E-D66F-B130-40B1-95C75681979C",
+                    "mediaHeight": 1600,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1600,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-463.75",
+                    "width": "32.82",
+                    "height": "32.82",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "6304B423-E3FC-C311-1644-95C756819C3E",
+                        "targetSequence": "86E601AE-425F-4F7F-704E-95BF03D05DE7",
+                        "closeButton": false,
+                        "automaticClose": false,
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "name": "INFO.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-243.59",
+                    "verticalAlign": "middle",
+                    "dataend": "00:59.88",
+                    "src": "Medias/Photos/logo_2.png",
+                    "zIndex": 6,
+                    "id": "9F2360A2-347E-58CE-E88C-95CE79C9B5A0",
+                    "mediaHeight": 916,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1107,
+                    "scales": true,
+                    "duration": "00:59.88",
+                    "centerX": "-464.16",
+                    "width": "45.01",
+                    "height": "37.25",
+                    "name": "logo_2.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "71.28",
+                    "verticalAlign": "middle",
+                    "dataend": "00:54.99",
+                    "src": "Medias/Photos/contacts.png",
+                    "zIndex": 12,
+                    "id": "52804993-594D-A6B5-A5A1-9A6DEEF74B22",
+                    "mediaHeight": 512,
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 512,
+                    "scales": true,
+                    "duration": "00:54.99",
+                    "centerX": "-463.22",
+                    "width": "32.44",
+                    "height": "32.44",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "516DACED-4E41-AF5B-1AE0-9AC3D4875870",
+                        "targetSequence": "576A6B5F-6A11-9C0B-89AD-9AB8F2BCF754",
+                        "closeButton": false,
+                        "automaticClose": false,
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "name": "contacts.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "iframes": [
+                {
+                    "centerY": "-88.98",
+                    "dataend": "00:55.36",
+                    "scales": true,
+                    "duration": "00:55.36",
+                    "centerX": "16.62",
+                    "width": "587.27",
+                    "code": "<!DOCTYPE html>\r<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r\t<!--LIBRERIA PER INTERAGIRE CON KLYNT -->\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r    <script src=\"https://unpkg.com/sweetalert/dist/sweetalert.min.js\"></script>\r\t<!-- STILE -->\r\t<style>\r    .swal-button {\r     background-color: red;\r     }\r    .swal-button:not([disabled]):hover {\r     background-color: lightgrey;\r     }\r\t#frame-body {\r          justify-content: center;\r          align-items: center;\r\t}\r\tinput{\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\t#frame-body button {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 90%\r\t}\r\r    .maintimer{\r        margin: 30px;\r        width: 100%;\r        justify-content: center;\r        text-align: center;\r        color: rgb(161, 34, 34);\r        line-height: normal;\r        font-size: 50px;\r        font-family: \"Verdana\";\r    }\r\r    .digittimer{\r        color: rgb(231, 228, 218);\r        background: rgb(161, 34, 34);\r        margin: 4px;\r        font-size: 50px;\r    }\r\r    .colontimer {\r        position: relative;\r        top: -.1em;\r    }\r\r    .texttimer{\r        font-size: 15px;\r    }\r\t</style>\r</head>\r<body>\r<div id=\"frame-body\" style=\"display:flex; flex-direction: column;\">\r<div class=\"maintimer\" style=\"display:flex;flex-direction: row;\">\r    <div>\r        <div>\r            <span class=\"digittimer\" id=\"time-d-0\">0</span><span class=\"digittimer\" id=\"time-d-1\">1</span>\r        </div>\r        <div class=\"texttimer\">\r            DAYS\r        </div>\r    </div>\r    <div class=\"colontimer\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digittimer\" id=\"time-h-0\">2</span><span class=\"digittimer\" id=\"time-h-1\">0</span>\r        </div>\r        <div class=\"texttimer\">\r            HOURS\r        </div>\r    </div>\r    <div class=\"colontimer\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digittimer \" id=\"time-m-0\">1</span><span class=\"digittimer \" id=\"time-m-1\">4</span>\r        </div>\r        <div class=\"texttimer\">\r            MINUTES\r        </div>\r    </div>\r    <div class=\"colontimer\">\r        :\r    </div>\r    <div>\r        <div>\r            <span class=\"digittimer \" id=\"time-s-0\">0</span><span class=\"digittimer \" id=\"time-s-1\">3</span>\r        </div>\r        <div class=\"texttimer\">\r            SECONDS\r        </div>\r    </div>\r</div>\r\r<br>\r<br>\r<br>\r\r\t<!-- CODICE JAVASCRIPT -->\r\t<script>\r\r    function show(){\r        var distance = new Date(\"2023/06/09 19:00\") - new Date();\r        if (distance < 0){\r            distance = 0;\r        }\r        var days = Math.floor(distance / (1000 * 60 * 60 * 24));\r        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\r        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\r        var seconds = Math.floor((distance % (1000 * 60)) / 1000);\r\r        document.getElementById(\"time-d-0\").innerHTML = Math.floor(days / 10) % 10;\r        document.getElementById(\"time-d-1\").innerHTML = (days) % 10;\r        document.getElementById(\"time-h-0\").innerHTML = Math.floor(hours / 10) % 10;\r        document.getElementById(\"time-h-1\").innerHTML = (hours) % 10;\r        document.getElementById(\"time-m-0\").innerHTML = Math.floor(minutes / 10) % 10;\r        document.getElementById(\"time-m-1\").innerHTML = (minutes) % 10;\r        document.getElementById(\"time-s-0\").innerHTML = Math.floor(seconds / 10) % 10;\r        document.getElementById(\"time-s-1\").innerHTML = (seconds) % 10;\r    }\r\r    show();\r    var timer_1 = setInterval(function () {\r        show();\r    }, 1000);\r\t</script>\r</div>\r</body></html>",
+                    "height": "207.99",
+                    "zIndex": 11,
+                    "id": "3843A6AD-5E24-2D3B-7B0C-9C0FC03D00CB",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 385.58333333333337,
+            "size": "small",
+            "y": 183.55,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 52.77429246993578,
+            "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "-134.58",
+                    "dataend": "00:54.99",
+                    "type": "txt-Paragraph",
+                    "text": "<p><span style=\"color: #333333; font-family: 'Back to Black Demo'; font-size: 42pt;\">Il Libro Delle Femmine</span></p>",
+                    "name": "Text 4",
+                    "zIndex": 5,
+                    "scales": true,
+                    "duration": "00:54.99",
+                    "centerX": "67.23",
+                    "width": "661.79",
+                    "height": "224.67",
+                    "id": "9EB091E7-3FED-5467-EB5F-9A7D0CFD1F1D",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-205.54",
+                    "dataend": "00:54.99",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"color: #bbbbbb; font-family: 'Abril Fatface'; font-size: 25pt;\">|</span></p>",
+                    "name": "Text 1",
+                    "zIndex": 7,
+                    "scales": true,
+                    "duration": "00:54.99",
+                    "centerX": "-465.02",
+                    "width": "31.70",
+                    "height": "65.16",
+                    "style": {
+                        "opacity": 0.6,
+                        "rotation": 90
+                    },
+                    "id": "E159920B-0F05-BEBA-0BA6-9691D1AB8570",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-139.14",
+                    "dataend": "00:54.99",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-family: 'Open Sans'; font-size: 8pt;\"><strong>IL LIBRO DELLE</strong></span></p>",
+                    "name": "Text 2",
+                    "zIndex": 8,
+                    "scales": true,
+                    "duration": "00:54.99",
+                    "centerX": "-450.52",
+                    "width": "135.81",
+                    "height": "66.73",
+                    "style": {
+                        "opacity": 0.9,
+                        "rotation": 90
+                    },
+                    "id": "942867E6-D90C-55A3-CC31-9B8B21B69467",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-147.48",
+                    "dataend": "00:54.99",
+                    "type": "txt-Title-1",
+                    "text": "<p><span style=\"font-size: medium;\"><strong><span style=\"font-size: 11pt;\">FEMMINE</span><br /></strong></span></p>",
+                    "name": "Text 2",
+                    "zIndex": 10,
+                    "scales": true,
+                    "duration": "00:54.99",
+                    "centerX": "-464.98",
+                    "width": "108.00",
+                    "height": "66.73",
+                    "style": {
+                        "opacity": 0.9,
+                        "rotation": 90
+                    },
+                    "id": "11E46756-A0B3-CEED-0A2F-9B8B21B63BE8",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "id": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
+            "buttons": [
+                {
+                    "centerY": "-24.00",
+                    "dataend": "00:54.99",
+                    "type": "klynt-button-8",
+                    "zIndex": 4,
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "6D340B20-23CC-2F33-4795-958C2BC4DA95",
+                        "targetSequence": "4D997339-8200-FCBD-EFEA-47C734515197",
+                        "closeButton": false,
+                        "automaticClose": false,
+                        "transition": "none",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "scales": true,
+                    "duration": "00:54.99",
+                    "centerX": "-463.00",
+                    "width": "44.00",
+                    "height": "44.00",
+                    "label": "",
+                    "id": "2AAE48C8-5725-4548-9758-958C2BC44D21",
+                    "databegin": "00:00.00"
+                }
+            ]
         }
     },
     "menu": {
@@ -6428,10 +6424,10 @@ klynt.data = {
         "offset_sequence": 12
     },
     "wording": {
+        "your_are_here": "Vous êtes ici",
         "total_duration": "(durée totale : {0})",
         "program_percentage_viewed": "du programme vu",
         "total_sequences": "séquences au total",
-        "your_are_here": "Vous êtes ici",
         "keywords": "mots-clés"
     },
     "mainSequence": "EB5CFA9C-43E8-63C2-78BE-438AACE76916",
@@ -6441,18 +6437,18 @@ klynt.data = {
         "height": 545,
         "overlayCloseButtonRight": 16,
         "analyticsKey": "",
+        "overlayCloseButtonTop": 16,
         "description": "",
         "mapsKey": "",
         "title": "site",
         "author": "polito",
-        "modificationDate": 1686251805738,
-        "overlayCloseButtonTop": 16,
+        "modificationDate": 1686252825130,
+        "projectId": "BCBBE002-8CAD-2B33-55ED-438A9C3EC523",
         "primaryColor": 3355443,
         "editorVersionNumber": "3.5.007",
         "username": "polito",
         "secondaryColor": 16777215,
         "editorVersionLabel": "Klynt 3.5.007",
-        "projectId": "BCBBE002-8CAD-2B33-55ED-438A9C3EC523",
         "tertiaryColor": 15286861,
         "mainFontName": "Open Sans",
         "ratio": "16/9",
