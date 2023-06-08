@@ -7,9 +7,9 @@ klynt.miniPlayerData = {
     "thumbnail": "Medias/Photos/school.jpg",
     "noWording": "No",
     "analyticsKey": "",
-    "downloadAppWording": "Download App",
     "launchAppWording": "Then Launch Project",
-    "url": "",
     "redirectToMobileApp": "auto",
+    "downloadAppWording": "Download App",
+    "url": "",
     "description": ""
 }
