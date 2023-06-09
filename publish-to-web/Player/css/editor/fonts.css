@@ -174,6 +174,15 @@
 }
 
 @font-face {
+	font-family: Back to Black Demo;
+	font-weight: normal;
+	font-style: normal;
+	src: url('fonts/Back to Black Demo.eot');
+	src: url('fonts/Back to Black Demo.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Back to Black Demo.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: Crimson Text;
 	font-weight: bold;
 	font-style: normal;
@@ -192,30 +201,12 @@
 }
 
 @font-face {
-	font-family: Back to Black Demo;
-	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/Back to Black Demo.eot');
-	src: url('fonts/Back to Black Demo.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Back to Black Demo.ttf') format('truetype');
-}
-
-@font-face {
 	font-family: Dancing Script;
 	font-weight: bold;
 	font-style: normal;
 	src: url('fonts/DancingScript-Bold.eot');
 	src: url('fonts/DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
 	     url('fonts/DancingScript-Bold.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: Dancing Script;
-	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/DancingScript-Regular.eot');
-	src: url('fonts/DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/DancingScript-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -228,12 +219,21 @@
 }
 
 @font-face {
+	font-family: Dancing Script;
+	font-weight: normal;
+	font-style: normal;
+	src: url('fonts/DancingScript-Regular.eot');
+	src: url('fonts/DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/DancingScript-Regular.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: Lato;
 	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/Lato-Italic.eot');
-	src: url('fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Lato-Italic.ttf') format('truetype');
+	font-style: normal;
+	src: url('fonts/Lato-Regular.eot');
+	src: url('fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Lato-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -248,10 +248,10 @@
 @font-face {
 	font-family: Lato;
 	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/Lato-Regular.eot');
-	src: url('fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Lato-Regular.ttf') format('truetype');
+	font-style: italic;
+	src: url('fonts/Lato-Italic.eot');
+	src: url('fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Lato-Italic.ttf') format('truetype');
 }
 
 @font-face {
